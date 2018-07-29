@@ -1,0 +1,1820 @@
+^@^@^@^A^@^@^@^\^@^@^@^@^@^@^@^\^@^@^@^@^@^@^@^\^@^@^@^B^@^@^@^@^O^@^@4^@^@^@4^@^@^@|^O^@^@^@^@^@^@4^@^@^@^C^@^@^@^L^@^A^@^P^@^A^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@<94>^O^@^@^A^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@
+Desktop :;
+Desktop :;
+Desktop :;
+Desktop :;
+Desktop :; file sc*
+sc: Mach-O 64-bit executable x86_64
+Desktop :; clear
+Desktop :; ls ../bin
+2mp4				Langue_francaise.mp3		Retire_VID			gw				mySwivl	       			sacha6
+Corrige.sh			Langue_francaise.mp4		Sauvegardes			hg.old				myproto	       			seagate
+Cours_skype			MakeDict.pl			Sync_HS				iat.sh				myrec_France_Culture.nok	srtlab.pl
+Delete_video.py			MakeDict.sh			TS				id3edcmd_cleaner		myrec_campus   			srtlab.pl.orig
+DupeFiles.pl			MakeDict.sh.orig		TelechargeFC			imgcat				myrec_chemins  			ssh-copy-id
+En_travaux_videos.rb		Mettre_une_video_sur_Youtube.rb	acamas				imgls				mysvn	       			stargate
+Ether				Mise_a_jour			astatos				locate				mytest	       			steropes
+Get_srt.py			MysLog				coeos				macosver			myww2	       			svnx
+Get_srt.py.nok			Newwww				com.apple.iSync.ipfe.plist	mire copie.jpg			mywww	       			tcprelay.sh
+Get_srt.py.ok.sacha		Niveau_sonore_mp4.sh		cu				mire-16cm-RVB.jpg		ourgos	       			telemus
+Get_srt.py.old			Podcast				cypries				mire.jpg			poly	       			verif.sh
+Infos_Videos_youtube.py		Rapports.rb			diviwp				mire_petite.png			pydio
+JDownloader 2.0			Recup.py			flocate				mp3tomp4			pyracmon
+Lance_W7			Recupere_srt.sh			gmvault				myDict.pl			quickstart.rb
+Desktop :; ls -rtl ../bin
+total 23680
+-rwxr-xr-x  1 dhenin  admin   594281 22 mar  2010 mire-16cm-RVB.jpg
+-rwxr-xr-x  1 dhenin  admin      100 18 déc  2010 iat.sh
+-rwxr-xr-x  1 dhenin  admin       23 22 avr  2011 telemus
+-rwxr-xr-x  1 dhenin  admin       63 30 avr  2012 acamas
+-rwxr-xr-x  1 dhenin  admin       75 16 fév  2013 poly
+-rwxr-xr-x  1 dhenin  admin       44  1 avr  2013 gw
+-rwxr-xr-x  1 dhenin  admin       35 15 avr  2013 stargate
+-rwxr-xr-x  1 dhenin  admin       45 19 avr  2013 astatos
+-rwxr-xr-x  1 dhenin  admin      432 29 jul  2013 myrec_chemins
+-rwxr-xr-x  1 dhenin  admin       52 20 oct  2013 myproto
+-rwxr-xr-x  1 dhenin  admin      113 14 mar  2014 id3edcmd_cleaner
+-rw-r--r--  1 dhenin  admin      462 14 mar  2014 com.apple.iSync.ipfe.plist
+-rwxr-xr-x  1 dhenin  admin      150  8 avr  2014 locate
+-rwxr-xr-x  1 dhenin  admin      466 22 jui  2014 Lance_W7
+-rwxr-xr-x  1 dhenin  admin      460 23 jul  2014 TelechargeFC
+-rwxr-xr-x  1 dhenin  admin      352 18 sep  2014 Sauvegardes
+-rwxr-xr-x  1 dhenin  admin       51 11 oct  2014 mywww
+-rwxr-xr-x  1 dhenin  admin     8876 11 oct  2014 macosver
+-rwxr-xr-x  1 dhenin  admin       49 22 fév  2015 hg.old
+-rwxr-xr-x  1 dhenin  admin      143 19 mar  2015 Mise_a_jour
+-rwxr-xr-x  2 dhenin  admin       45 26 mar  2015 cypries
+-rwxr-xr-x  2 dhenin  admin       45 26 mar  2015 cu
+-rwxr-xr-x  1 dhenin  admin       52 13 avr  2015 myww2
+-rwxr-xr-x@ 1 dhenin  admin      454 14 aoû  2015 Recup.py
+-rwxr-xr-x  1 dhenin  admin       45  4 sep  2015 coeos
+-rwxr-xr-x  1 dhenin  admin       18  8 sep  2015 pydio
+-rwxr-xr-x  1 dhenin  admin      397 14 sep  2015 myrec_France_Culture.nok
+-rwxr-xr-x  1 dhenin  admin       27 15 sep  2015 steropes
+-rwxr-xr-x  1 dhenin  admin       77 18 sep  2015 ssh-copy-id
+-rwxr-xr-x  1 dhenin  admin     1110  4 oct  2015 DupeFiles.pl
+-rwxr-xr-x  1 dhenin  admin      152 18 oct  2015 Podcast
+-rwxr-xr-x  1 dhenin  admin       51 11 nov  2015 TS
+drwxr-xr-x  4 dhenin  admin      136 16 déc  2015 JDownloader 2.0
+-rwxr-xr-x  1 dhenin  admin       50  5 jan  2016 mysvn
+-rwxr-xr-x  1 dhenin  admin       26 13 jan  2016 sacha6
+-rwxr-xr-x  1 dhenin  admin       25 23 fév  2016 mytest
+-rwxr-xr-x  1 dhenin  admin      285 27 fév  2016 flocate
+-rwxr-xr-x  1 dhenin  admin       24 27 mar  2016 diviwp
+-rwxr-xr-x@ 1 dhenin  admin  5799624 31 mar  2016 gmvault
+-rwxr-xr-x  1 dhenin  admin       51  1 avr  2016 Newwww
+-rwxr-xr-x  1 dhenin  admin       46 30 avr  2016 seagate
+-rwxr-xr-x  1 dhenin  admin      405  4 mai  2016 myrec_campus
+-rwxr-xr-x  1 dhenin  admin       56  8 mai  2016 Ether
+-rwxr-xr-x@ 1 dhenin  admin     1976  6 jui  2016 imgcat
+-rwxr-xr-x@ 1 dhenin  admin     1967  6 jui  2016 imgls
+-rwxr-xr-x  1 dhenin  admin      107 12 jui  2016 2mp4
+-rwxr-xr-x  1 dhenin  admin      210 25 jul  2016 Cours_skype
+-rwxr-xr-x  1 dhenin  admin     2059 21 aoû  2016 MakeDict.sh.orig
+-rwxr-xr-x  1 dhenin  admin     2153 21 aoû  2016 MakeDict.sh
+-rwxr-xr-x  1 dhenin  admin       47 11 oct  2016 pyracmon
+-rwxr-xr-x  1 dhenin  admin      596 24 déc  2016 myDict.pl
+-rwxr-xr-x  1 dhenin  admin       33  3 jan  2017 Retire_VID
+-rwxr-xr-x  1 dhenin  admin      164 13 mai  2017 mySwivl
+-rwxr-xr-x@ 1 dhenin  admin      455 25 jui  2017 MakeDict.pl
+-rwxr-xr-x  1 dhenin  admin      162 12 oct  2017 tcprelay.sh
+-rw-r--r--@ 1 dhenin  admin  2578627 20 oct  2017 mire.jpg
+-rw-r--r--  1 dhenin  admin    36164 21 oct  2017 mire_petite.png
+-rw-r--r--@ 1 dhenin  admin  2631488 30 oct  2017 mire copie.jpg
+-rw-r--r--@ 1 dhenin  staff    24707 30 oct  2017 Langue_francaise.mp3
+-rw-r--r--  1 dhenin  admin    82228 30 oct  2017 Langue_francaise.mp4
+-rwxr-xr-x  1 dhenin  admin      656 30 oct  2017 mp3tomp4
+-rwxr-xr-x  1 dhenin  admin       41  2 nov  2017 MysLog
+-rw-r--r--@ 1 dhenin  admin     1827  8 nov  2017 quickstart.rb
+-rwxr-xr-x@ 1 dhenin  staff     3413 12 nov  2017 Rapports.rb
+-rwxr-xr-x  1 dhenin  admin       68 14 nov  2017 Sync_HS
+lrwxr-xr-x  1 dhenin  admin       67 23 jan  2018 svnx -> /Volumes/Macintosh HD/Applications/svnX.app/Contents/Resources/svnx
+-rwxr-xr-x  1 dhenin  admin       43 13 mar 17:39 ourgos
+-rwxr-xr-x  1 dhenin  admin     3438  5 jul 11:49 En_travaux_videos.rb
+-rw-r--r--  1 dhenin  admin      552  8 jul 18:04 Mettre_une_video_sur_Youtube.rb
+-rwxrwxr-x  1 dhenin  staff      106  9 jul 18:47 Recupere_srt.sh
+-rw-r--r--  1 dhenin  admin     1278 10 jul 17:39 Get_srt.py.ok.sacha
+-rw-r--r--  1 dhenin  admin     1279 10 jul 17:40 Get_srt.py.old
+-rw-r--r--  1 dhenin  admin     1279 10 jul 17:40 Get_srt.py
+-rwxr-xr-x@ 1 dhenin  admin    25391 10 jul 17:48 srtlab.pl
+-rwxr-xr-x  1 dhenin  admin      138 10 jul 18:11 verif.sh
+-rwxr-xr-x  1 dhenin  admin     3697 10 jul 20:52 Delete_video.py
+-rwxr-xr-x  1 dhenin  admin      163 11 jul 20:40 Niveau_sonore_mp4.sh
+-rw-r--r--  1 dhenin  admin     1416 12 jul 10:13 Get_srt.py.nok
+-rwxr-xr-x@ 1 dhenin  admin    25391 12 jul 10:39 srtlab.pl.orig
+-rwxr-xr-x@ 1 dhenin  admin       96 12 jul 19:40 Corrige.sh
+-rw-r--r--  1 dhenin  admin     4153 13 jul 06:38 Infos_Videos_youtube.py
+Desktop :; flocate time | egrep 'sh$'
+Desktop :; flocate sav | egrep 'sh$'
+Desktop :; flocate back | egrep 'sh$'
+Desktop :; more Maxtor_doit
+rsync  -avzcHl  root@192.168.0.09:/Tellus/Homes/anpr.cloud  .
+Desktop :; flocate machine | egrep -i time
+/System/Library/PreferencePanes/TimeMachine.prefPane
+/System/Library/PrivateFrameworks/TimeMachine.framework/Versions/A/TimeMachine
+/Applications/Time Machine.app
+/System/Library/PrivateFrameworks/Backup.framework/Versions/A/Resources/TimeMachineButton.car
+/usr/local/lib/ruby/gems/2.4.0/doc/google-api-client-0.17.0/ri/Google/Apis/DataflowV1b3/RuntimeEnvironment/machine_type-i.ri
+/System/Library/PrivateFrameworks/TimeMachine.framework
+/System/Library/UserEventPlugins/com.apple.TimeMachine.plugin
+/System/Library/UserEventPlugins/TimeMachineUEAPlugin.plugin
+/System/Library/PrivateFrameworks/SystemMigration.framework/Versions/A/Resources/Base.lproj/TimeMachine.icns
+/System/Library/CoreServices/Menu Extras/TimeMachine.menu
+/Users/dhenin/macports/var/macports/sources/rsync.macports.org/release/tarballs/ports/multimedia/lmms/files/patch-cmake-modules-DetectMachine.cmake.diff
+/Users/dhenin/Desktop/14_Travaux_en_cours/Article_Enseignement_Maths/Mathilda_Ohm/Laisse_voir/www.mathsaharry.com/time_machine.gif
+Desktop :; ls -artl ../Downloads/
+total 29095632
+drwxr-xr-x@   36 dhenin  staff        1224 28 mar  2003 html to mhtml
+drwxr-xr-x@    3 dhenin  staff         102  5 déc  2006 say.app
+drwxr-xr-x@    3 dhenin  staff         102  4 jui  2010 MacSpeech Scribe.app
+drwxr-xr-x@    3 dhenin  staff         102 23 oct  2011 1290835-bd0ee475e685eb00cd382a602b315ea7611d2102
+drwxr-xr-x@   24 dhenin  staff         816  9 nov  2011 TEG-PCITXR(3.14)
+drwxr-xr-x@    7 dhenin  staff         238 21 jui  2014 youtubeChannelVideosFinder-master
+drwxr-xr-x    60 dhenin  admin        2040 22 jul  2014 images
+-rw-r--r--@    1 dhenin  admin      981993 28 mar  2017 400974ar.pdf
+-rw-r--r--@    1 dhenin  staff      727421 26 avr  2017 HERM_015_0263.pdf
+-rw-r--r--@    1 dhenin  staff    48365724 30 avr  2017 the-life-deliziosa-nella-campagna-globale-delle-bibite-sanpellegrino-di-ogilvy-mather.mp4
+-rw-r--r--@    1 dhenin  staff     3206445 30 avr  2017 Trumpet_Triplets_David_Morris.mp3
+-rw-r--r--@    1 dhenin  staff     6649154  5 mai  2017 LaTeX-HowTo-full.pdf
+-rw-r--r--@    1 dhenin  staff      110929 10 mai  2017 hermeneutique-cours-de-louvain-introduction.pdf
+drwxr-xr-x    43 dhenin  staff        1462 10 mai  2017 schtroumpfs
+-rw-r--r--@    1 dhenin  staff      650354 14 mai  2017 APHI_762_0217.pdf
+-rw-r--r--@    1 dhenin  staff      968392 16 mai  2017 Linterpretation_est_critique.pdf
+-rw-r--r--@    1 dhenin  staff      536866 16 mai  2017 La_question_de_linterpretation_chez_Niet.pdf
+-rw-r--r--@    1 dhenin  staff     8416357 16 mai  2017 L_oeuf_et_les_Schtroumpfs.pdf
+drwxr-xr-x     4 dhenin  staff         136 21 mai  2017 Maths
+-rw-r--r--@    1 dhenin  staff      437664 24 mai  2017 scratch-fr.pdf
+-rw-r--r--@    1 dhenin  staff     4569598 26 mai  2017 Article_Laflamme.pdf
+-rw-r--r--@    1 dhenin  staff      216153 27 mai  2017 perlbash.pdf
+-rw-r--r--@    1 dhenin  staff      150147 31 mai  2017 petit_manuel_de_bonne_redaction.pdf
+-rw-r--r--@    1 dhenin  staff     2038886 31 mai  2017 Stratégies_lecture_VFINALE.pdf
+-rw-r--r--@    1 dhenin  staff      118093 31 mai  2017 Strategie_lectire_math.pdf
+-rw-r--r--@    1 dhenin  staff      173277 31 mai  2017 typologie_d_aide_maryline_doan_ash-doc.pdf
+-rw-r--r--@    1 dhenin  staff     1014675 31 mai  2017 Ontario_Strategie_math.pdf
+drwxr-xr-x@   16 dhenin  staff         544  4 jui  2017 ink2canvas-master
+-rw-r--r--@    1 dhenin  staff      169599  5 jui  2017 téléchargement.png
+-rw-r--r--@    1 dhenin  staff     2008645  6 jui  2017 TikZ-Manuel.pdf
+drwxr-xr-x     5 dhenin  staff         170 27 jui  2017 TI
+-rw-r--r--@    1 dhenin  staff       94361  1 jul  2017 AAA03023.pdf
+-rw-r--r--@    1 dhenin  staff    10978423  2 jul  2017 PA11.pdf
+-rw-r--r--@    1 dhenin  staff    12328993  2 jul  2017 PA21-22.pdf
+-rw-r--r--@    1 dhenin  staff     5067851  2 jul  2017 2015_cours_ts_final_pucci_obligatoire.pdf
+-rw-r--r--@    1 dhenin  staff       58147  2 jul  2017 Algoritmique_jjd.pdf
+-rw-r--r--@    1 dhenin  staff      204009  2 jul  2017 resume03.pdf
+-rw-r--r--@    1 dhenin  staff      507499  3 jul  2017 marc_legrand_qpes_2017_et_annexes.pptx
+-rw-r--r--@    1 dhenin  staff     1099671  3 jul  2017 KBR_DidactikMaths.pdf
+-rw-r--r--@    1 dhenin  staff       61279  3 jul  2017 FR9-CourantsPedagogiques.pdf
+-rw-r--r--@    1 dhenin  staff      766889  3 jul  2017 Présentation du package Tikz.pdf
+-rw-r--r--@    1 dhenin  staff     3758007  4 jul  2017 tikzpgfmanual.pdf
+-rw-r--r--@    1 dhenin  staff      351242  4 jul  2017 seance_5.pdf
+-rw-r--r--@    1 dhenin  staff      519177  8 jul  2017 TKZdoc-base.pdf
+-rw-r--r--@    1 dhenin  staff   238329760 14 jul  2017 Pensee_juive.avi
+-rw-r--r--@    1 dhenin  staff    23247884 14 jul  2017 Le_bourgeois_gentilhomme_philosophe.avi
+-rw-r--r--@    1 dhenin  staff   133746436 14 jul  2017 La question du sens.avi
+-rw-r--r--@    1 dhenin  staff      185365 14 jul  2017 Austin.pdf
+-rw-r--r--@    1 dhenin  staff     2419925 20 jul  2017 Le_Sorcier.mp4
+-rw-r--r--     1 dhenin  staff    52941752 20 jul  2017 une-histoire-des-emotions.mp3
+-rw-r--r--@    1 dhenin  staff     1972208 22 jul  2017 TikZ-Impatient.pdf
+-rw-r--r--@    1 dhenin  staff     1507116 22 jul  2017 TikZPourLImpatient.pdf
+-rw-r--r--@    1 dhenin  staff      659480 22 jul  2017 tkz-euclide-screen.pdf
+-rw-r--r--@    1 dhenin  staff      599106 22 jul  2017 TKZdoc-euclide-main.pdf
+-rw-r--r--@    1 dhenin  staff     5480875 22 jul  2017 petit_manuel_pour_tikz_2012.pdf
+-rw-r--r--@    1 dhenin  staff      727493 27 jul  2017 concours2012sol.pdf
+-rw-r--r--@    1 dhenin  staff    42253309  2 aoû  2017 01B_Et_Dieu_crea_N.mp4
+-rw-r--r--@    1 dhenin  staff     2664741  2 aoû  2017 regle.pdf
+-rw-r--r--@    1 dhenin  staff      382475  4 aoû  2017 Schopenhauer-L-art-d-avoir-toujours-raison.pdf
+-rw-r--r--@    1 dhenin  staff    25085525  5 aoû  2017 the-monkey-business-illusion.mp4
+drwxr-xr-x@   21 dhenin  staff         714 12 aoû  2017 wordpress
+-rw-r--r--@    1 dhenin  staff      139009 13 aoû  2017 Chapitre_5_Devoir_fnt_algo_28_02_2011.pdf
+-rw-r--r--@    1 dhenin  staff      311849 13 aoû  2017 Chapitre_5_Devoir_fnt_algo_28_02_2011_correction.pdf
+-rw-r--r--@    1 dhenin  staff     1845537 13 aoû  2017 base-de-pb-ouverts-lycee.pdf
+-rw-r--r--@    1 dhenin  staff    43439810 13 aoû  2017 VIVANTS19971122 - André Comte-Sponville, matérialisme et Orient Par Michel Cazenave.mp3
+-rw-r--r--     1 dhenin  staff     5960098 16 aoû  2017 Andre_Wales.jpg
+-rw-r--r--@    1 dhenin  staff    18708298 17 aoû  2017 Andre_Wales_2.tiff
+-rw-r--r--     1 dhenin  staff    18611728 17 aoû  2017 Andre_Wales.tiff
+-rw-r--r--@    1 dhenin  staff       21034 18 aoû  2017 virement.tiff
+-rw-r--r--@    1 dhenin  staff     8609554 19 aoû  2017 Une minute durera 61 secondes cette nuit.mp4
+-rw-r--r--@    1 dhenin  staff    20944215 19 aoû  2017 Pourquoi la dernieere minute du mois de juin durera 61 secondes et non 60.mp4
+-rw-r--r--@    1 dhenin  staff      258838 20 aoû  2017 VVD65N00EU01.pdf
+-rw-r--r--@    1 dhenin  staff     2871160 21 aoû  2017 Vecteurs_en_seconde.pdf
+-rw-r--r--@    1 dhenin  staff       72396 21 aoû  2017 intro-damasio.pdf
+-rw-r--r--@    1 dhenin  staff    20246070 21 aoû  2017 211169817-Antonio-R-Damasio-Marcel-Blanc-L-erreur-de-Descartes-la-raison-des-emotions-Odile-Jacob-2006-pdf.pdf
+-rw-r--r--@    1 dhenin  staff      489062 26 aoû  2017 JS_1981_Quinze_vainc.pdf
+-rw-r--r--     1 dhenin  staff   214696947 28 aoû  2017 Molière Amphitryon 1967--7udL7CiItc.mp4
+-rw-r--r--@    1 dhenin  staff      894565  3 sep  2017 tutoriel.pdf
+-rw-r--r--@    1 dhenin  staff      260833  7 sep  2017 Recherches en éducation - rapport final - mathématiques expérimentales - activités de modélisat (ressource 2981).PDF
+-rw-r--r--@    1 dhenin  staff      173807  8 sep  2017 menon.pdf
+-rw-r--r--@    1 dhenin  staff       92301  8 sep  2017 TEXTE3.pdf
+-rw-r--r--@    1 dhenin  staff      666954  8 sep  2017 platon_menon_cousin.pdf
+-rw-r--r--@    1 dhenin  staff    93586248 10 sep  2017 Socrates_philo.mp3
+-rw-r--r--@    1 dhenin  staff    39136591 15 sep  2017 The_Saturn_System.ibooks
+-rw-r--r--@    1 dhenin  staff    10952971 18 sep  2017 La_théologie_au_douzième_siècle.pdf
+-rw-r--r--@    1 dhenin  staff      267987 18 sep  2017 prclaudelevistraussesprit63.PDF
+-rw-r--r--@    1 dhenin  staff      246830 21 sep  2017 servitude.pdf
+drwxr-xr-x@    6 dhenin  staff         204 22 sep  2017 HP Calc Fonts
+drwxr-xr-x@   30 dhenin  staff        1020 23 sep  2017 Perlito-master
+-rw-r--r--@    1 dhenin  staff      546954 28 sep  2017 TKZdoc-tab.pdf
+-rw-r--r--@    1 dhenin  staff     2920606 28 sep  2017 Mathoscope.pdf
+-rw-r--r--@    1 dhenin  staff       27362 29 sep  2017 Cef_d_ut.jpg
+-rw-r--r--@    1 dhenin  staff     1763259  1 oct  2017 le_procede_la_martiniere_presente_par_un_inspecteur_primaire_de_la_fin_du_xixeme_siecle.pdf
+-rw-r--r--@    1 dhenin  staff       22438  2 oct  2017 y0kIl7-Momgu2Wnb7nqhw-AmGlQ@256x207.jpg
+-rw-r--r--@    1 dhenin  staff      127966  2 oct  2017 programme_francais_general_33218.pdf
+-rw-r--r--@    1 dhenin  staff     1085784  3 oct  2017 agtxt_Escamoteur_Illusion.pdf
+-rw-r--r--@    1 dhenin  staff      108144  3 oct  2017 L_escamoteur_Piem.jpg
+-rw-r--r--@    1 dhenin  staff      187589  5 oct  2017 RA16_C4_MATH_comm_ecrit_oral_polysemiques_548386.pdf
+-rw-r--r--@    1 dhenin  staff     1681296  6 oct  2017 melencolia21.jpg
+-rw-r--r--@    1 dhenin  staff       83422  8 oct  2017 printf[1]2.pdf
+-rw-r--r--@    1 dhenin  staff     2207232 10 oct  2017 IntroPython.pdf
+-rw-r--r--@    1 dhenin  staff       31878 13 oct  2017 Bug.jpg
+-rw-r--r--@    1 dhenin  staff      833236 14 oct  2017 1-_scratch-explorateur_presentation.pdf
+-rw-r--r--@    1 dhenin  staff      949874 14 oct  2017 vue_generale_V2.gif
+-rw-r--r--@    1 dhenin  staff        5687 16 oct  2017 Menon_(Platon).jpg
+-rw-r--r--@    1 dhenin  staff   186502838 17 oct  2017 le-mythe-de-la-caverne.mp4
+-rw-r--r--@    1 dhenin  staff    43739592 17 oct  2017 alegorie-de-la-caverne-de-platon.mp4
+-rw-r--r--@    1 dhenin  staff    14447301 17 oct  2017 platon-allegorie-de-la-caverne.mp4
+-rw-r--r--@    1 dhenin  staff    29252750 18 oct  2017 THE EMOJI MOVIE - Official Trailer (HD).mp4
+-rw-r--r--@    1 dhenin  staff   186342674 19 oct  2017 Menon.mp4
+-rw-r--r--     1 dhenin  staff       12288 20 oct  2017 .sc.c.swp
+-rw-r--r--@    1 dhenin  staff     5407751 24 oct  2017 Surface_sphere.gif
+-rw-r--r--@    1 dhenin  staff   130668672 25 oct  2017 samedis FrQ 1978 12 16 Olivier Messiaen, réponses et réflexions.mp3
+-rw-r--r--@    1 dhenin  staff       50310 26 oct  2017 Utilisation.pdf
+drwxr-xr-x     5 dhenin  staff         170 27 oct  2017 LaoTseu
+-rw-r--r--@    1 dhenin  staff        3756 29 oct  2017 Racine_de_2.srt
+-rw-r--r--@    1 dhenin  staff      195789 30 oct  2017 td de la formation.pdf
+-rw-r--r--@    1 dhenin  staff       69415  1 nov  2017 tp8.pdf
+-rw-r--r--@    1 dhenin  staff    11009855  1 nov  2017 1984-07.pdf
+-rw-r--r--@    1 dhenin  staff    21298031  5 nov  2017 The C Programming Language - 2nd Edition - Ritchie Kernighan.pdf
+-rw-r--r--@    1 dhenin  staff     1872483 10 nov  2017 UserGuide.pdf
+-rw-r--r--@    1 dhenin  staff     3009509 10 nov  2017 LatexPourLeProfDeMaths.pdf
+-rw-r--r--@    1 dhenin  staff       54220 10 nov  2017 Petite_liseure.png
+-rw-r--r--@    1 dhenin  staff    11500487 12 nov  2017 archimedes.mp4
+drwxr-xr-x@    5 dhenin  staff         170 19 nov  2017 Takeout
+-rw-r--r--@    1 dhenin  staff    64006292 24 nov  2017 Magic Spinner 2.0 - Tutorial.mp4
+-rw-r--r--@    1 dhenin  staff       88419  2 déc  2017 tp11.pdf
+-rw-r--r--@    1 dhenin  staff      111222  2 déc  2017 tubes_nommes.pdf
+drwxr-xr-x@   10 dhenin  staff         340  7 déc  2017 BDS2-VP
+-rw-r--r--@    1 dhenin  staff    23917871  7 déc  2017 the_c_programming_language_2.pdf
+-rw-r--r--@    1 dhenin  staff      843843 13 déc  2017 Pythagore.mp4
+-rw-r--r--@    1 dhenin  staff      482883 13 déc  2017 Thales.swf
+-rw-r--r--@    1 dhenin  staff      786210 13 déc  2017 Thales.mp4
+drwxr-xr-x@    3 dhenin  staff         102 15 déc  2017 Xia_Installer.app
+drwxr-xr-x@    5 dhenin  staff         170 17 déc  2017 4eme
+-rw-r--r--@    1 dhenin  staff     4481169 17 déc  2017 memoire Julia Pilet.pdf
+-rw-r--r--@    1 dhenin  staff       33252 18 déc  2017 ts06_ds3cor.pdf
+-rw-r--r--@    1 dhenin  staff      288418 21 jan  2018 Arbelos.tiff
+-rw-r--r--@    1 dhenin  staff      858672 21 jan  2018 Arbelos.jpg
+-rw-r--r--@    1 dhenin  staff      256760  6 fév 07:44 michel_foucault45_0.jpg
+-rw-r--r--     1 dhenin  staff           0 15 fév 17:23 .localized
+-rw-r--r--@    1 dhenin  staff        8046 20 fév 16:42 logo-1-150x150.png
+-rw-r--r--@    1 dhenin  staff       87475 24 fév 17:14 545b7c928b7e9.pdf
+-rw-r--r--@    1 dhenin  staff      147032 25 fév 04:58 Structures_mathematiques_du_langage.pdf
+-rw-r--r--@    1 dhenin  staff     8715051 25 fév 05:06 These_CCoussinet_2007.pdf
+-rw-r--r--@    1 dhenin  staff   221823582 25 fév 05:18 Les théorèmes d'incomplétude de Gödel — Science étonnante #37.mp4
+-rw-r--r--@    1 dhenin  staff    82239867 25 fév 06:07 la-machine-a-inventer-des-mots-avec-code-mu-science-etonnante-17.mp4
+-rw-r--r--@    1 dhenin  staff      172983 25 fév 07:37 18414-Formation des mots.pdf
+drwx------@   25 dhenin  staff         850 25 fév 08:36 Racines Grecques_files
+drwx------@   10 dhenin  staff         340 25 fév 09:45 Lexique des racines, préfixes, suffixes_files
+drwx------@   20 dhenin  staff         680 25 fév 10:15 Racines grecques — Wikipédia_files
+drwxr-xr-x     3 dhenin  staff         102 26 fév 08:17 www.conotron.fr
+-rw-r--r--@    1 dhenin  staff     1775486 27 fév 14:39 Racines_grecques.html
+-rw-r--r--@    1 dhenin  staff      122903  1 mar 19:24 unnamed.gif
+-rw-r--r--@    1 dhenin  staff    32286642  4 mar 09:22 MATINALES (FC) - Le langage - Paul Ricoeur - du 25.05 au 03.06.1978.mp3
+-rw-r--r--@    1 dhenin  staff     1016468 10 mar 18:10 Scena_di_commedia,_musici_ambulanti,_da_villa_di_cecerone_a_pompei,_9985,_03.JPG
+-rw-r--r--@    1 dhenin  staff      396689 13 mar 07:04 RADIOLA.jpg
+-rw-r--r--@    1 dhenin  staff   199212129 15 mar 05:39 Hommage à Django Reinhardt et Didier Lockwood par The Amazing Keystone Big Band - Concert Du Soir (10 03 2018).zip
+-rw-r--r--@    1 dhenin  staff   124220224 16 mar 11:28 Comment PENSER comme SHERLOCK HOLMES.mp4
+-rw-r--r--@    1 dhenin  staff   183906473 18 mar 06:35 Les Derniers Jours D'Emmanuel Kant (The Last Days of Immanuel Kant w English subs).mp4
+-rw-r--r--@    1 dhenin  staff      596667 18 mar 12:18 AImer_comprendre_Berner.pdf
+-rw-r--r--@    1 dhenin  staff        1148 29 mar 13:56 PHILAMBULE19971029 - La demande Philosophique (Jacques Bouvresse).txt
+-rw-r--r--@    1 dhenin  staff    69324800 29 mar 13:57 PHILAMBULE19971029 - La demande Philosophique (Jacques Bouvresse).mp3
+-rw-r--r--@    1 dhenin  staff    38261720  3 avr 08:02 Clonix_CD_090315.zip
+drwx------@    8 dhenin  staff         272  3 avr 08:04 USB-82143A
+-rw-r--r--@    1 dhenin  staff    23725522  3 avr 15:29 Vocabulaire.pdf
+drwxr-xr-x     4 dhenin  staff         136  3 avr 19:40 France 5
+-rw-r--r--@    1 dhenin  staff       22927  5 avr 14:14 62771737.jpg
+-rw-r--r--@    1 dhenin  staff      413411  5 avr 19:45 Alignement_avec_vecteur.jpg
+-rw-r--r--@    1 dhenin  staff       40294  9 avr 08:49 hep-clnx.zip
+-rw-r--r--@    1 dhenin  staff     7188463 11 avr 09:10 Theater_gruppe.jpg
+-rw-r--r--@    1 dhenin  staff       42227 18 avr 04:40 Chats_Go.jpg
+-rw-r--r--@    1 dhenin  staff       13495 19 avr 12:01 Test_Suites.zip
+drwxr-xr-x@   45 dhenin  staff        1530 19 avr 12:03 Test_Suites
+-rw-r--r--@    1 dhenin  staff      620076 28 avr 15:27 Mansion_Saturne.jpg
+-rw-r--r--@    1 dhenin  staff       53155 29 avr 12:05 Jésus-et-les-maths.jpg
+-rw-r--r--@    1 dhenin  staff      160535  1 mai 14:56 arton4314-c6c60.png
+-rw-r--r--@    1 dhenin  staff     2322962  1 mai 15:22 arton4314-c6c60.tiff
+drwxr-xr-x     2 dhenin  staff          68  1 mai 19:04 test
+-rw-r--r--@    1 dhenin  staff      100690  8 mai 19:56 manquants pydio.pdf
+-rw-r--r--@    1 dhenin  staff      406734 11 mai 14:12 Odenmacho_Utagawa_Hiroshige.jpg
+-rw-r--r--@    1 dhenin  staff       11520 12 mai 08:11 troiscourbes.png
+-rw-r--r--@    1 dhenin  staff        6118 12 mai 08:24 triangle02.gif
+-rw-r--r--@    1 dhenin  staff       28889 12 mai 18:37 Resolution_de_problemes_d_algebre.pdf
+-rw-r--r--@    1 dhenin  staff      309226 24 mai 11:08 tikzlibraryspline.pdf
+drwx------@    5 dhenin  staff         170 28 mai 08:51 fwdinformationjuridiquemodledecourrier
+-rw-r--r--@    1 dhenin  staff       33761  1 jui 06:46 Un_monde_haut_en_couleur.png
+-rw-r--r--@    1 dhenin  staff      265562  9 jui 21:14 Méthodologie pour l'épreuve de mathémat...s, série S - Terminale S Mathématiques.pdf
+drwxr-xr-x   928 dhenin  staff       31552 16 jui 16:33 Philo_copie
+drwxr-xr-x   233 dhenin  staff        7922 18 jui 17:59 Nouveaux_chemins_2012
+drwxr-xr-x   210 dhenin  staff        7140 18 jui 18:11 Nouveaux_chemins_2011
+drwxr-xr-x  1002 dhenin  staff       34068 18 jui 20:40 Nouveaux_chemins_vide
+-rw-r--r--@    1 dhenin  staff       13025 19 jui 09:30 Scilicet_avant_weaverx-settings.wxb
+-rw-r--r--@    1 dhenin  staff    61436875 19 jui 12:45 nextcloud-13.0.4.zip
+drwxr-xr-x     3 dhenin  staff         102 19 jui 14:20 Nouveaux_chemins
+-rw-r--r--@    1 dhenin  staff    71606696 19 jui 16:53 Vivaldi.1.15.1147.47.dmg
+-rw-r--r--@    1 dhenin  staff        4147 19 jui 17:03 thebrig-cypries.dhenin.fr-20180619170339.jails
+-rw-r--r--@    1 dhenin  staff     8033524 20 jui 05:45 A[N]PéRo 2018-04-06.zip
+drwxr-xr-x@    7 dhenin  staff         238 20 jui 05:45 A[N]PéRo 2018-04-06
+-rw-r--r--@    1 dhenin  staff   525242735 20 jui 20:54 Knock_sous-titres_russes.mp4
+-rw-r--r--@    1 dhenin  staff    13309614 21 jui 07:12 Kris_Marker.mp4
+-rw-r--r--@    1 dhenin  staff      514692 21 jui 17:26 Lettre_Paris_6_motivation.pdf
+-rw-r--r--@    1 dhenin  staff     9332282 21 jui 18:23 Liste_de_entrees.txt
+-rw-r--r--@    1 dhenin  staff   621606319 21 jui 18:39 sans-soleil-chris-marker-1983-fr.mp4
+-rw-r--r--@    1 dhenin  staff    28012504 22 jui 04:39 affinités électives 2007 06 21 henry bauchau.mp3
+-rw-r--r--@    1 dhenin  staff          53 22 jui 05:34 liste0
+-rw-r--r--@    1 dhenin  staff      211338 23 jui 07:29 Capture d’écran 2018-06-23 à 07.25.08.jpg
+-rw-r--r--@    1 dhenin  staff    91706508 25 jui 06:33 scilicet.local-20180625-041359-382.wpress
+-rw-r--r--@    1 dhenin  staff       70649 25 jui 14:26 rapporteurs-eleves.pdf
+-rw-r--r--@    1 dhenin  staff     1212901 25 jui 14:44 20180625_143718[1].jpg
+-rw-r--r--@    1 dhenin  staff       86016 26 jui 15:23 LogExpo.doc
+-rw-r--r--@    1 dhenin  staff    62836535 27 jui 05:31 2005_09_27_benoist_Theorie_realiste_de_la_perception.mp3
+-rw-r--r--@    1 dhenin  staff     8954566 27 jui 11:41 le-petit-train-rebus-ortf.mp4
+-rw-r--r--@    1 dhenin  staff      259142 27 jui 14:22 2016_02_bb_sujet.pdf
+-rw-------@    1 dhenin  staff    57169920 28 jui 13:52 .com.google.Chrome.UyL5Wq
+-rw-------@    1 dhenin  staff    57337856 28 jui 13:52 .com.google.Chrome.KCQUkm
+-rw-------@    1 dhenin  staff    57161728 28 jui 13:52 .com.google.Chrome.43laoB
+-rw-------@    1 dhenin  staff    56772608 28 jui 13:52 .com.google.Chrome.miu4E1
+-rw-------@    1 dhenin  staff    57071616 28 jui 13:52 .com.google.Chrome.9RJTiC
+-rw-------@    1 dhenin  staff    57255936 28 jui 13:52 .com.google.Chrome.tUyhYU
+-rw-------@    1 dhenin  staff    57028736 28 jui 13:52 .com.google.Chrome.bvL3Ol
+-rw-------@    1 dhenin  staff    56453248 28 jui 13:52 .com.google.Chrome.HYgorY
+-rw-------@    1 dhenin  staff    57096320 28 jui 13:52 .com.google.Chrome.q9l1aU
+-rw-------@    1 dhenin  staff    57204864 28 jui 13:52 .com.google.Chrome.og6Oyj
+drwxr-xr-x     4 dhenin  staff         136 28 jui 17:59 Aspirateur
+-rw-r--r--@    1 dhenin  staff       99890 29 jui 05:44 brevet_2018-corrige.pdf
+-rw-r--r--@    1 dhenin  staff       99919 29 jui 11:42 brevet_gen_2018-corrige.pdf
+-rw-r--r--@    1 dhenin  staff     1942811 29 jui 18:43 sujetBrevetMetropoleJuin2018.pdf
+-rw-r--r--@    1 dhenin  staff      115041 30 jui 13:56 edward-aux-mains-d-argent-french-dvdrip-1991-10.torrent
+-rw-r--r--@    1 dhenin  staff      282879 30 jui 15:29 15c95da73f6b66dd37a4c6789cb1c8a3.ico.zip
+drwx------@   29 dhenin  staff         986 30 jui 15:30 15c95da73f6b66dd37a4c6789cb1c8a3.ico
+-rw-r--r--@    1 dhenin  staff   230491308  2 jul 11:55 Wayne W.DYER ॐ TA te King CHANGEZ vos PENSÉES changez votre VIE Livre audio COMPLET [1].webm
+-rw-r--r--@    1 dhenin  staff     9792450  3 jul 05:35 Hallucii.mp4
+-rw-r--r--@    1 dhenin  staff    11674355  3 jul 07:07 Labyrinth-Within You.mp4
+-rw-r--r--@    1 dhenin  staff    12271165  3 jul 09:36 La_plus_vieille_bouteille_a_la_mer.mp4
+-rw-r--r--@    1 dhenin  staff     3813608  3 jul 18:24 winmail.dat
+-rw-r--r--@    1 dhenin  staff      583601  4 jul 10:13 Histoire d'IP.docx
+-rw-r--r--@    1 dhenin  staff   264210236  4 jul 13:53 The Best of Georges Brassens (full album).mp4
+-rw-r--r--@    1 dhenin  staff    17382442  4 jul 14:34 Charles Trenet et Georges Brassens.mp4
+-rw-r--r--@    1 dhenin  staff    19176582  4 jul 14:52 Buddy Greene  -  Orange Blossom Special 1994!!!.mp4
+-rw-r--r--@    1 dhenin  staff    29176266  6 jul 07:07 mathilde.local-20180706-050710-393.wpress
+-rw-r--r--     1 dhenin  staff   288514321  9 jul 13:57 Chapeau melon et bottes de cuir - ARTE-EkvIkraYczk.mp4
+-rw-r--r--     1 dhenin  staff   354344060  9 jul 20:26 Chapeau melon et bottes de cuir - ARTE-q3yPLj4G9EY.mp4
+-rw-r--r--@    1 dhenin  staff      201731 10 jul 12:49 tikzlignes.pdf
+-rw-r--r--     1 dhenin  staff   196966986 10 jul 19:22 Chapeau melon et bottes de cuir - ARTE-E_hWIbsmBOI.mp4
+-rw-r--r--     1 dhenin  staff   329063853 11 jul 00:40 Chapeau melon et bottes de cuir - ARTE-R2T7_4tSiCE.mp4
+-rw-r--r--     1 dhenin  staff   351062223 11 jul 14:14 Chapeau melon et bottes de cuir - ARTE-PlY6-25yBGg.mp4
+-rw-r--r--     1 dhenin  staff   299153282 11 jul 14:23 Chapeau melon et bottes de cuir - ARTE-metkFQweXrg.mp4
+-rw-r--r--@    1 dhenin  staff   353299264 11 jul 14:56 Chapeau melon et bottes de cuir - ARTE.mp4
+-rw-r--r--     1 dhenin  staff   255059337 12 jul 12:23 Chapeau melon et bottes de cuir - ARTE-Ln-n4oPTVB8.mp4
+192.168.0.91 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1KMExEpqZJX7z/Q7m5aLV9q6S8MOXI799kmOJT/z0ki74xaEFwuw1qS2NOx9KxaJtdI9yOnueZXZOSI+cCdAAAMn/0ditNGK0FZD+yP9pGdateGu50poz1MrmnFJISnRFBj/OeJDB98mNqTqdFBNk8wSyNU6GZc07FQ8hAE05mo/UuuVm3+w0ZVON5RNgOd1aO0a2K5EfhXcIym3ahrhAQPhEBQ1J2JMYk/YpaZ+7gezk0S0JA5Geu8jPjmBVSO915VsPcDl5XpwkVwe+PvJ19xZfnH/6q68oNhqbI7dlctVOAHk6+7gHi6M1NG64d1vCQRGM9KuSvNzgUXuaL6mWw==
+192.168.0.40 ssh-dss AAAAB3NzaC1kc3MAAAEBAPH5Hcrc2QzIi7KQLf17N+aUuFfwb7uKxuojzmO3kyb3nMdn3s+rfTCJLWTJeHCeKb6yMpDF1XGXZwVN+omWV8CsA9tivOHYzZws3b0QB/JENjYmhHbNkKijm6EWXSyvsJ2RuFj0PC8+cv77ZFx7VTnrwZk6Excv7v51j+qo5BejLL1ZybISld/n3kQWE+GJqBYJ9zp/25XEl7macH02o58lRhfqygunDlKm4yiq34pfkA7FS4eHNzcXGvmtQlAHeDts1APbKq8OAoYoyCo0gjK9nbAwbfm0yqM51+eIo3H6xLWjSBdMI9guqndNJWps9PpKHa3bvM1xFB3vfoQZ6m8AAAAVAKf8ZCwMgP4ZpqwwNw4vIn1AuLnfAAABAQCVfUrpUWFvf/TXPucJde4CuAmtoMOrjpepAiXK7N9dwGyq/PbVxr4tnJ/RTyNGOFmBroc6/n0MnxR0qmkQPJNtM/Yz+kk+BCgwsyu2uenVOIX/eJFuQPQYiUdktTcgAyChMp99WF4yfKKgv1CDdMkpFi8xgBEN03s1sOKCRNwJ5rlpTNqh9LatuRyzWOIjNd7atkEYIQK92idJgqSmleo+UhJFfoOGjYlRbsnRVbvfqh7GVd7SSydhKhdb2eZjj2J8eMBwHNl1FLtqt02cnFW3FQDdXPbYYakN25z3F3sex/CPuBGJ0HRGq+y/Ynj/m99TPq9vLkzSUQPR4MmQ5feoAAABAG5L9ffMc/8T9dTeF7FEPlS54ka73M+pNY/5ehMykrrS9CVjFmvpeclnxkBpvjt3G5IlvkSsjUEE6kMk7mW9EV+USL0TTU/LavxXD8fLCSiIwResfLDRxjixjxVI1ouZeKNQ6B3tPOWOEIKR5nPlc7iy435nS77/NM3yBFH0KGdepr+3ZmdgWAjDLKjQhNyCz4Joc1IH1Vf5Ccvb6rsaJ91ajiq29iI2ZpLXXIQsS1ZYzO1Gr9xBTNgmzEmeLqFMcxDSJ+rLMF4VDjRdL2zz5BSmv/Ffj2nICMgv/gj3zzuk7zcMpnbvGyA3W8VWb6IjJDvww4rJ21Q2gHBC5XCohJs=
+86.66.193.14 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+colette ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+192.168.0.25 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1KMExEpqZJX7z/Q7m5aLV9q6S8MOXI799kmOJT/z0ki74xaEFwuw1qS2NOx9KxaJtdI9yOnueZXZOSI+cCdAAAMn/0ditNGK0FZD+yP9pGdateGu50poz1MrmnFJISnRFBj/OeJDB98mNqTqdFBNk8wSyNU6GZc07FQ8hAE05mo/UuuVm3+w0ZVON5RNgOd1aO0a2K5EfhXcIym3ahrhAQPhEBQ1J2JMYk/YpaZ+7gezk0S0JA5Geu8jPjmBVSO915VsPcDl5XpwkVwe+PvJ19xZfnH/6q68oNhqbI7dlctVOAHk6+7gHi6M1NG64d1vCQRGM9KuSvNzgUXuaL6mWw==
+192.168.0.4 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAltYjJT9hFUmIkgxHkIsrbaaKB3vZjZG7ITzFJ8AoBiwmzj2y7xfj7tDz5YSUpnqMHJDLH1oU6mR5U9+ISTMYCX3LJWGPlQFJuWDwLds8GYpMUOrdxj3elXfi/ZzP1PknsubvzV35iDMukWgChNPzAj3NH4cnyzbwDPXqLtkc6eIYMOY+Oz8GiLwEomdyfzT8RmsWTZEN7RPbLWIsxTBOTu2QsuDYDZQ4iiZ+8ZvY/lg42K6JUgMd1Cn+2wWak2bzha48YF2wv0wWUxmMwUoFbTItXKBiqujQeQ30922wIQVupeykgTT+KiVFqiTs9rr1/biQ+ip4NvaIviivtR0IGw==
+86.66.193.10 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.244 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+192.168.0.3 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfey4i6LHVEYZYtbiTOYwMg+VuL1zZeeoo9ekrloY+2KBHYqn3kpm5NQBoNP2IYNVuklljcMA8b3q81l4ODFs1Q9uDih+GftFzyTIS29Udam+7GtrleEtSo9kjisAQOeEC606HYmlHZRhQ5tJnj3lCpHw7OAzknxeQAhhUuy4SMbge1HXEUVzbH218/juN0ZENdjTajrd1nUX7Tdu2VQXGFKTqc28e6pG08sEUUjmv9O4fLJG3qJxyVBPKvCN3wYYoNd1/53Q9CcUIHzF/8UUBFFZczyqa6IdHEK16e0/sLl9Zr1V14Z8XH/uBYFPBjhyVZy1bdt7GKJ/cNQ5x2x5l
+acamas ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfey4i6LHVEYZYtbiTOYwMg+VuL1zZeeoo9ekrloY+2KBHYqn3kpm5NQBoNP2IYNVuklljcMA8b3q81l4ODFs1Q9uDih+GftFzyTIS29Udam+7GtrleEtSo9kjisAQOeEC606HYmlHZRhQ5tJnj3lCpHw7OAzknxeQAhhUuy4SMbge1HXEUVzbH218/juN0ZENdjTajrd1nUX7Tdu2VQXGFKTqc28e6pG08sEUUjmv9O4fLJG3qJxyVBPKvCN3wYYoNd1/53Q9CcUIHzF/8UUBFFZczyqa6IdHEK16e0/sLl9Zr1V14Z8XH/uBYFPBjhyVZy1bdt7GKJ/cNQ5x2x5l
+pyracmon ssh-dss AAAAB3NzaC1kc3MAAAEBAPH5Hcrc2QzIi7KQLf17N+aUuFfwb7uKxuojzmO3kyb3nMdn3s+rfTCJLWTJeHCeKb6yMpDF1XGXZwVN+omWV8CsA9tivOHYzZws3b0QB/JENjYmhHbNkKijm6EWXSyvsJ2RuFj0PC8+cv77ZFx7VTnrwZk6Excv7v51j+qo5BejLL1ZybISld/n3kQWE+GJqBYJ9zp/25XEl7macH02o58lRhfqygunDlKm4yiq34pfkA7FS4eHNzcXGvmtQlAHeDts1APbKq8OAoYoyCo0gjK9nbAwbfm0yqM51+eIo3H6xLWjSBdMI9guqndNJWps9PpKHa3bvM1xFB3vfoQZ6m8AAAAVAKf8ZCwMgP4ZpqwwNw4vIn1AuLnfAAABAQCVfUrpUWFvf/TXPucJde4CuAmtoMOrjpepAiXK7N9dwGyq/PbVxr4tnJ/RTyNGOFmBroc6/n0MnxR0qmkQPJNtM/Yz+kk+BCgwsyu2uenVOIX/eJFuQPQYiUdktTcgAyChMp99WF4yfKKgv1CDdMkpFi8xgBEN03s1sOKCRNwJ5rlpTNqh9LatuRyzWOIjNd7atkEYIQK92idJgqSmleo+UhJFfoOGjYlRbsnRVbvfqh7GVd7SSydhKhdb2eZjj2J8eMBwHNl1FLtqt02cnFW3FQDdXPbYYakN25z3F3sex/CPuBGJ0HRGq+y/Ynj/m99TPq9vLkzSUQPR4MmQ5feoAAABAG5L9ffMc/8T9dTeF7FEPlS54ka73M+pNY/5ehMykrrS9CVjFmvpeclnxkBpvjt3G5IlvkSsjUEE6kMk7mW9EV+USL0TTU/LavxXD8fLCSiIwResfLDRxjixjxVI1ouZeKNQ6B3tPOWOEIKR5nPlc7iy435nS77/NM3yBFH0KGdepr+3ZmdgWAjDLKjQhNyCz4Joc1IH1Vf5Ccvb6rsaJ91ajiq29iI2ZpLXXIQsS1ZYzO1Gr9xBTNgmzEmeLqFMcxDSJ+rLMF4VDjRdL2zz5BSmv/Ffj2nICMgv/gj3zzuk7zcMpnbvGyA3W8VWb6IjJDvww4rJ21Q2gHBC5XCohJs=
+86.66.193.91 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.179 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.136 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.57 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.175 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+@                                                                                                                                                    @
+"known_hosts" 78L, 25835C                                                                                                          1,1  Top
+192.168.85.100 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIvI5iXzQzbx5qOkeKZyyPuedE5ELBOLT+0E54pMb7QiXo8a6WHjzVc/ZHl8AQ-rw-r--r--@    1 dhenin  staff   352106641 13 jul 12:40 chapeau-melon-et-bottes-de-cuir-arte.mp4
+-rw-r--r--@    1 dhenin  staff   368427968 13 jul 12:41 chapeau-melon-et-bottes-de-cuir-arte (1).mp4
+-rw-r--r--     1 dhenin  staff   355824978 13 jul 14:35 Chapeau melon et bottes de cuir - ARTE-YEO6A1PXeYs.mp4
+-rw-r--r--     1 dhenin  staff   249297579 13 jul 20:27 Chapeau melon et bottes de cuir - ARTE-lxQU2pXCXNA.mp4
+-rw-r--r--     1 dhenin  staff   242690397 14 jul 21:52 Ainsi parlait Zarathoustra - Friedrich Nietzsche-MlvHSb_0IiE.mp4
+-rw-r--r--@    1 dhenin  staff   406204586 15 jul 13:30 XigmaNAS-x64-LiveUSB-11.2.0.4.5748.img.gz
+-rw-r--r--@    1 dhenin  staff  1066401792 15 jul 13:31 XigmaNAS-x64-LiveUSB-11.2.0.4.5748.img
+-rw-r--r--     1 dhenin  staff   286255807 16 jul 12:57 Chapeau melon et bottes de cuir - ARTE-E4dRk6e78UA.mp4
+
+Options Rsync
+Pour afficher les options rsync utilisées pour la sauvegarde, exécutez ./rsync_tmbackup.sh --rsync-get-flags. Il est également possible d'ajouter ou de supprimer des options en utilisant l' --rsync-set-flagsoption. Par exemple, pour exclure les autorisations et les groupes de sauvegarde:
+
+rsync_tmbackup --rsync-set-flags "--numeric-ids --links --hard-links \
+--one-file-system --archive --no-perms --no-groups --itemize-changes" /src /dest
+Pas d'expiration de sauvegarde automatique
+Une option permettant de tester le comportement par défaut pour purger les anciennes sauvegardes en cas d'espace insuffisant. Cette option est définie avec le --no-auto-expiredrapeau.
+
+Comment restaurer
+Le script crée une sauvegarde dans un répertoire régulier afin que vous puissiez simplement copier les fichiers dans le répertoire d'origine. Vous pourriez le faire avec quelque chose comme rsync -aP /path/to/last/backup/ /path/to/restore/to/. Pensez à utiliser l' --dry-runoption pour vérifier ce qui va exactement être copié. Utilisez --deletecette option si vous souhaitez également supprimer les fichiers présents dans la destination mais pas dans la sauvegarde (vous devez évidemment prendre des précautions supplémentaires lors de l'utilisation de cette option).
+
+Extensions
+rtb-wrapper : Permet de créer des profils de sauvegarde dans les fichiers de configuration. Gère les opérations de sauvegarde et de restauration.
+voyage dans le temps : intégration facile dans le centre de notifications OSX
+FAIRE
+Vérifiez la source et le système de fichiers de destination ( df -T /dest). Si l'un d'eux est FAT, utilisez le paramètre --modify-window rsync (voir man rsync) avec une valeur de 1 ou 2
+Ajouter des --whole-filearguments sur Windows? Voir http://superuser.com/a/905415/73619
+Changements mineurs (voir les commentaires TODO dans la source).
+LICENCE
+La licence MIT (MIT)
+
+Copyright (c) 2013-2018 Laurent Cozic
+
+La permission est par la présente accordée à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le «Logiciel»), de traiter le Logiciel sans restriction, y compris sans limitation les droits d'utilisation, de copie, de modification, de fusion , publier, distribuer, sous-licencier et / ou vendre des copies du Logiciel et permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous réserve des conditions suivantes:
+
+L'avis de copyright ci-dessus et cet avis d'autorisation doivent être inclus dans toutes les copies ou parties substantielles du logiciel.
+
+LE LOGICIEL EST FOURNI «EN L'ÉTAT», SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET DE NON-CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU LES DÉTENTEURS DE COPYRIGHT NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION DE CONTRAT, DÉLICTUELLE OU AUTRE, DÉCOULANT DE OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU AUTRES TRANSACTIONS LOGICIEL.
+
+© 2018 GitHub , Inc.
+termes
+Intimité
+Sécurité
+Statut
+Aidez-moi
+Contactez GitHub
+API
+Entraînement
+Boutique
+Blog
+Sur
+1G
+~
+                                                                                                                  113,2         Bot
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de / vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+/\
+
+  0 */1 * * * if [[ -d /mnt/backup ]]; then rsync_tmbackup.sh /home /mnt/backup; fi
+Logique d'expiration de sauvegarde
+Les jeux de sauvegarde sont automatiquement supprimés suite à une stratégie d'expiration simple définie avec le --strategydrapeau. Cette stratégie est une série d'intervalles de temps avec chaque élément étant défini comme x:y, ce qui signifie "après x jours, conserver une sauvegarde tous les jours y". La stratégie par défaut est 1:1 30:7 365:30, ce qui signifie:
+
+Après 1 jour, gardez une sauvegarde tous les 1 jours ( 1: 1 ).
+Après 30 jours, conservez une sauvegarde tous les 7 jours ( 30: 7 ).
+Après 365 jours, conservez une sauvegarde tous les 30 jours ( 365: 30 ).
+Avant le premier intervalle (c'est-à-dire par défaut dans les premières 24 heures), il est implicite que tous les jeux de sauvegarde sont conservés. En outre, si le répertoire de destination de sauvegarde est plein, les sauvegardes les plus anciennes sont supprimées jusqu'à ce qu'il y ait suffisamment d'espace disponible.
+
+Fichier d'exclusion
+Un fichier d'exclusion facultatif peut être fourni en tant que troisième paramètre. Il devrait être compatible avec le --exclude-fromparamètre de rsync. Voir ce tutoriel pour plus d'informations.
+
+Serrure intégrée
+Le script est conçu pour qu'une seule opération de sauvegarde puisse être active pour un répertoire donné. Si une nouvelle opération de sauvegarde est démarrée alors qu'une autre est toujours active (c'est-à-dire qu'elle n'est pas encore terminée), la nouvelle sera automatiquement interrompue. Merci à cela l'utilisation de flockpour exécuter le script n'est pas nécessaire.
+
+Options Rsync
+Pour afficher les options rsync utilisées pour la sauvegarde, exécutez ./rsync_tmbackup.sh --rsync-get-flags. Il est également possible d'ajouter ou de supprimer des options en utilisant l' --rsync-set-flagsoption. Par exemple, pour exclure les autorisations et les groupes de sauvegarde:
+
+rsync_tmbackup --rsync-set-flags "--numeric-ids --links --hard-links \
+--one-file-system --archive --no-perms --no-groups --itemize-changes" /src /dest
+Pas d'expiration de sauvegarde automatique
+Une option permettant de tester le comportement par défaut pour purger les anciennes sauvegardes en cas d'espace insuffisant. Cette option est définie avec le --no-auto-expiredrapeau.
+
+Comment restaurer
+Le script crée une sauvegarde dans un répertoire régulier afin que vous puissiez simplement copier les fichiers dans le répertoire d'origine. Vous pourriez le faire avec quelque chose comme rsync -aP /path/to/last/backup/ /path/to/restore/to/. Pensez à utiliser l' --dry-runoption pour vérifier ce qui va exactement être copié. Utilisez --deletecette option si vous souhaitez également supprimer les fichiers présents dans la destination mais pas dans la sauvegarde (vous devez évidemment prendre des précautions supplémentaires lors de l'utilisation de cette option).
+
+Extensions
+rtb-wrapper : Permet de créer des profils de sauvegarde dans les fichiers de configuration. Gère les opérations de sauvegarde et de restauration.
+voyage dans le temps : intégration facile dans le centre de notifications OSX
+FAIRE
+Vérifiez la source et le système de fichiers de destination ( df -T /dest). Si l'un d'eux est FAT, utilisez le paramètre --modify-window rsync (voir man rsync) avec une valeur de 1 ou 2
+Ajouter des --whole-filearguments sur Windows? Voir http://superuser.com/a/905415/73619
+Changements mineurs (voir les commentaires TODO dans la source).
+LICENCE
+La licence MIT (MIT)
+
+Copyright (c) 2013-2018 Laurent Cozic
+
+La permission est par la présente accordée à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le «Logiciel»), de traiter le Logiciel sans restriction, y compris sans limitation les droits d'utilisation, de copie, de modification, de fusion , publier, distribuer, sous-licencier et / ou vendre des copies du Logiciel et permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous réserve des conditions suivantes:
+
+/\/
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+"Lisez-moi.txt" [New] 114L, 8988C written                                                                         7,1           Top
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+                                                                                                                   7,1           Top
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+
+  rsync_tmbackup.sh -p 2222 /home user@example.com:/mnt/backup_drive
+                                                                                                                                    7,1   Top
+ vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+
+  rsync_tmbackup.sh -p 2222 /home user@example.com:/mnt/backup_drive
+                                                                                                                                   7,1  Top
+Si une nouvelle opération de sauvegarde est démarrée alors qu'une autre est toujours active (c'est-à-dire qu'elle n'est pas encore terminée),
+-rw-r--r--     1 dhenin  staff   252600409 16 jul 14:07 Chapeau melon et bottes de cuir - ARTE-qxT1paV4sxM.mp4
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une habitude de la ligne de commande, et ne dispose pas d'une interface graphique  pour restaurer les fichiers. En revanche, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+
+        git clone https://github.com/laurent22/rsync-time-backup
+
+Usage
+
+        Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+        Options
+         -p, --port           Port SSH.
+         -h, --help           Affiche ce message.
+         --rsync-get-flags    Affiche les flags rsync utilisés pour la sauvegarde.
+         --rsync-set-flags    Positionne les flags rsync qui seront utilisés pour la sauvegarde.
+         --log-dir            Définit le répertoire des logs.
+                              S'il est défini, les fichiers que le répertoire contient seront ignorés par la sauvegarde
+                              et ne seront, notamment, pas supprimés.
+         --strategy           Stratégie de sauvegard. Par défaut : "1:1 30:7 365:30" signifie
+                              qu'après un jour, effectue une sauvegarde par jour,
+                              après 30 jours, effectue une sauvegarde par semaine,
+                              après un an, effectue une sauvegarde par mois.
+         --no-auto-expire     Cette option interdit la suppression automatique des fichiers anciens
+                              en cas d'espace de sauvegarde insuffisant.
+
+Caractéristiques
+
+* Chaque sauvegarde est dans son propre dossier après l'horodatage en cours.
+  Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+* Sauvegarde vers/depuis des destinations distantes via SSH.
+
+* Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont linkés à la sauvegarde précédente,
+  et donc prennent très peu d'espace supplémentaire.
+
+* Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+* Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+* Exclusion de fichier conforme à l'option  --exclude-from de  rsync.
+
+* Purge automatique des anciennes sauvegardes, dans les 24 heures, toutes les sauvegardes sont conservées.
+  Dans le même mois, la sauvegarde la plus récente pour chaque jour est conservée.
+  Pour toutes les sauvegardes précédentes, le plus récentie de chaque mois est conservée.
+
+* Le lien symbolique "latest"  pointe vers la dernière sauvegarde réussie.
+
+"Lisez-moi.txt" 145L, 8667C                                                                                                  1,1           Top
+        (https://sites.google.com/site/rsync2u/home/rsync-tutorial/the-exclude-from-option)
+-rw-r--r--     1 dhenin  staff   195634611 17 jul 14:12 Chapeau melon et bottes de cuir - ARTE-_pdnmIWrwy0.mp4
+-rw-r--r--@    1 dhenin  staff   243896365 17 jul 15:23 Chapeau melon et bottes de cuir - ARTE-MxKGyitRGNA.mp4
+-rw-r--r--@    1 dhenin  staff      158856 18 jul 06:21 thebrig-alcatraz.zip
+-rw-r--r--@    1 dhenin  staff        1255 18 jul 12:52 1043499-1e7db2833dd6da98a158d7e24bf5c6c028523cbc.zip
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une habitude de la ligne de commande, et ne dispose pas d'une interface graphique  pour restaurer les fichiers. En revanche, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+
+        git clone https://github.com/laurent22/rsync-time-backup
+
+Usage
+
+        Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+        Options
+         -p, --port           Port SSH.
+         -h, --help           Affiche ce message.
+         --rsync-get-flags    Affiche les flags rsync utilisés pour la sauvegarde.
+         --rsync-set-flags    Positionne les flags rsync qui seront utilisés pour la sauvegarde.
+         --log-dir            Définit le répertoire des logs.
+                              S'il est défini, les fichiers que le répertoire contient seront ignorés par la sauvegarde
+                              et ne seront, notamment, pas supprimés.
+         --strategy           Stratégie de sauvegard. Par défaut : "1:1 30:7 365:30" signifie
+                              qu'après un jour, effectue une sauvegarde par jour,
+                              après 30 jours, effectue une sauvegarde par semaine,
+                              après un an, effectue une sauvegarde par mois.
+         --no-auto-expire     Cette option interdit la suppression automatique des fichiers anciens
+                              en cas d'espace de sauvegarde insuffisant.
+
+Caractéristiques
+
+* Chaque sauvegarde est dans son propre dossier après l'horodatage en cours.
+  Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+* Sauvegarde vers/depuis des destinations distantes via SSH.
+
+* Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont linkés à la sauvegarde précédente,
+  et donc prennent très peu d'espace supplémentaire.
+
+* Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+* Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+* Exclusion de fichier conforme à l'option  --exclude-from de  rsync.
+
+* Purge automatique des anciennes sauvegardes, dans les 24 heures, toutes les sauvegardes sont conservées.
+  Dans le même mois, la sauvegarde la plus récente pour chaque jour est conservée.
+  Pour toutes les sauvegardes précédentes, le plus récentie de chaque mois est conservée.
+
+* Le lien symbolique "latest"  pointe vers la dernière sauvegarde réussie.
+
+			steropes
+Get_srt.py			MysLog				coeos				macosver			myww2	       			svnx
+Get_srt.py.nok			Newwww				com.apple.iSync.ipfe.plist	mire copie.jpg			mywww	       			tcprelay.sh
+Get_srt.py.ok.sacha		Niveau_sonore_mp4.sh		cu				mire-16cm-RVB.jpg		ourgos	       			telemus
+Get_srt.py.old			Podcast				cypries				mire.jpg			poly	       			verif.sh
+Infos_Videos_youtube.py		Rapports.rb			diviwp				mire_petite.png			pydio
+JDownloader 2.0			Recup.py			flocate				mp3tomp4			pyracmon
+Lance_W7			Recupere_srt.sh			gmvault				myDict.pl			quickstart.rb
+Desktop :; ls -rtl ../bin
+total 23680
+-rwxr-xr-x  1 dhenin  admin   594281 22 mar  2010 mire-16cm-RVB.jpg
+-rwxr-xr-x  1 dhenin  admin      100 18 déc  2010 iat.sh
+-rwxr-xr-x  1 dhenin  admin       23 22 avr  2011 telemus
+-rwxr-xr-x  1 dhenin  admin       63 30 avr  2012 acamas
+-rwxr-xr-x  1 dhenin  admin       75 16 fév  2013 poly
+-rwxr-xr-x  1 dhenin  admin       44  1 avr  2013 gw
+-rwxr-xr-x  1 dhenin  admin       35 15 avr  2013 stargate
+-rwxr-xr-x  1 dhenin  admin       45 19 avr  2013 astatos
+-rwxr-xr-x  1 dhenin  admin      432 29 jul  2013 myrec_chemins
+-rwxr-xr-x  1 dhenin  admin       52 20 oct  2013 myproto
+-rwxr-xr-x  1 dhenin  admin      113 14 mar  2014 id3edcmd_cleaner
+-rw-r--r--  1 dhenin  admin      462 14 mar  2014 com.apple.iSync.ipfe.plist
+-rwxr-xr-x  1 dhenin  admin      150  8 avr  2014 locate
+-rwxr-xr-x  1 dhenin  admin      466 22 jui  2014 Lance_W7
+-rwxr-xr-x  1 dhenin  admin      460 23 jul  2014 TelechargeFC
+-rwxr-xr-x  1 dhenin  admin      352 18 sep  2014 Sauvegardes
+-rwxr-xr-x  1 dhenin  admin       51 11 oct  2014 mywww
+-rwxr-xr-x  1 dhenin  admin     8876 11 oct  2014 macosver
+-rwxr-xr-x  1 dhenin  admin       49 22 fév  2015 hg.old
+-rwxr-xr-x  1 dhenin  admin      143 19 mar  2015 Mise_a_jour
+-rwxr-xr-x  2 dhenin  admin       45 26 mar  2015 cypries
+-rwxr-xr-x  2 dhenin  admin       45 26 mar  2015 cu
+-rwxr-xr-x  1 dhenin  admin       52 13 avr  2015 myww2
+-rwxr-xr-x@ 1 dhenin  admin      454 14 aoû  2015 Recup.py
+-rwxr-xr-x  1 dhenin  admin       45  4 sep  2015 coeos
+-rwxr-xr-x  1 dhenin  admin       18  8 sep  2015 pydio
+-rwxr-xr-x  1 dhenin  admin      397 14 sep  2015 myrec_France_Culture.nok
+-rwxr-xr-x  1 dhenin  admin       27 15 sep  2015 steropes
+-rwxr-xr-x  1 dhenin  admin       77 18 sep  2015 ssh-copy-id
+-rwxr-xr-x  1 dhenin  admin     1110  4 oct  2015 DupeFiles.pl
+-rwxr-xr-x  1 dhenin  admin      152 18 oct  2015 Podcast
+-rwxr-xr-x  1 dhenin  admin       51 11 nov  2015 TS
+drwxr-xr-x  4 dhenin  admin      136 16 déc  2015 JDownloader 2.0
+-rwxr-xr-x  1 dhenin  admin       50  5 jan  2016 mysvn
+-rwxr-xr-x  1 dhenin  admin       26 13 jan  2016 sacha6
+-rwxr-xr-x  1 dhenin  admin       25 23 fév  2016 mytest
+-rwxr-xr-x  1 dhenin  admin      285 27 fév  2016 flocate
+-rwxr-xr-x  1 dhenin  admin       24 27 mar  2016 diviwp
+-rwxr-xr-x@ 1 dhenin  admin  5799624 31 mar  2016 gmvault
+-rwxr-xr-x  1 dhenin  admin       51  1 avr  2016 Newwww
+-rwxr-xr-x  1 dhenin  admin       46 30 avr  2016 seagate
+-rwxr-xr-x  1 dhenin  admin      405  4 mai  2016 myrec_campus
+-rwxr-xr-x  1 dhenin  admin       56  8 mai  2016 Ether
+-rwxr-xr-x@ 1 dhenin  admin     1976  6 jui  2016 imgcat
+-rwxr-xr-x@ 1 dhenin  admin     1967  6 jui  2016 imgls
+-rwxr-xr-x  1 dhenin  admin      107 12 jui  2016 2mp4
+-rwxr-xr-x  1 dhenin  admin      210 25 jul  2016 Cours_skype
+-rwxr-xr-x  1 dhenin  admin     2059 21 aoû  2016 MakeDict.sh.orig
+-rwxr-xr-x  1 dhenin  admin     2153 21 aoû  2016 MakeDict.sh
+-rwxr-xr-x  1 dhenin  admin       47 11 oct  2016 pyracmon
+-rwxr-xr-x  1 dhenin  admin      596 24 déc  2016 myDict.pl
+-rwxr-xr-x  1 dhenin  admin       33  3 jan  2017 Retire_VID
+-rwxr-xr-x  1 dhenin  admin      164 13 mai  2017 mySwivl
+-rwxr-xr-x@ 1 dhenin  admin      455 25 jui  2017 MakeDict.pl
+-rwxr-xr-x  1 dhenin  admin      162 12 oct  2017 tcprelay.sh
+-rw-r--r--@ 1 dhenin  admin  2578627 20 oct  2017 mire.jpg
+-rw-r--r--  1 dhenin  admin    36164 21 oct  2017 mire_petite.png
+-rw-r--r--@ 1 dhenin  admin  2631488 30 oct  2017 mire copie.jpg
+-rw-r--r--@ 1 dhenin  staff    24707 30 oct  2017 Langue_francaise.mp3
+-rw-r--r--  1 dhenin  admin    82228 30 oct  2017 Langue_francaise.mp4
+-rwxr-xr-x  1 dhenin  admin      656 30 oct  2017 mp3tomp4
+-rwxr-xr-x  1 dhenin  admin       41  2 nov  2017 MysLog
+-rw-r--r--@ 1 dhenin  admin     1827  8 nov  2017 quickstart.rb
+-rwxr-xr-x@ 1 dhenin  staff     3413 12 nov  2017 Rapports.rb
+-rwxr-xr-x  1 dhenin  admin       68 14 nov  2017 Sync_HS
+lrwxr-xr-x  1 dhenin  admin       67 23 jan  2018 svnx -> /Volumes/Macintosh HD/Applications/svnX.app/Contents/Resources/svnx
+-rwxr-xr-x  1 dhenin  admin       43 13 mar 17:39 ourgos
+-rwxr-xr-x  1 dhenin  admin     3438  5 jul 11:49 En_travaux_videos.rb
+-rw-r--r--  1 dhenin  admin      552  8 jul 18:04 Mettre_une_video_sur_Youtube.rb
+-rwxrwxr-x  1 dhenin  staff      106  9 jul 18:47 Recupere_srt.sh
+-rw-r--r--  1 dhenin  admin     1278 10 jul 17:39 Get_srt.py.ok.sacha
+-rw-r--r--  1 dhenin  admin     1279 10 jul 17:40 Get_srt.py.old
+-rw-r--r--  1 dhenin  admin     1279 10 jul 17:40 Get_srt.py
+-rwxr-xr-x@ 1 dhenin  admin    25391 10 jul 17:48 srtlab.pl
+-rwxr-xr-x  1 dhenin  admin      138 10 jul 18:11 verif.sh
+-rwxr-xr-x  1 dhenin  admin     3697 10 jul 20:52 Delete_video.py
+-rwxr-xr-x  1 dhenin  admin      163 11 jul 20:40 Niveau_sonore_mp4.sh
+-rw-r--r--  1 dhenin  admin     1416 12 jul 10:13 Get_srt.py.nok
+-rwxr-xr-x@ 1 dhenin  admin    25391 12 jul 10:39 srtlab.pl.orig
+-rwxr-xr-x@ 1 dhenin  admin       96 12 jul 19:40 Corrige.sh
+-rw-r--r--  1 dhenin  admin     4153 13 jul 06:38 Infos_Videos_youtube.py
+Desktop :; flocate time | egrep 'sh$'
+Desktop :; flocate sav | egrep 'sh$'
+Desktop :; flocate back | egrep 'sh$'
+Desktop :; more Maxtor_doit
+rsync  -avzcHl  root@192.168.0.09:/Tellus/Homes/anpr.cloud  .
+Desktop :; flocate machine | egrep -i time
+/System/Library/PreferencePanes/TimeMachine.prefPane
+/System/Library/PrivateFrameworks/TimeMachine.framework/Versions/A/TimeMachine
+/Applications/Time Machine.app
+/System/Library/PrivateFrameworks/Backup.framework/Versions/A/Resources/TimeMachineButton.car
+/usr/local/lib/ruby/gems/2.4.0/doc/google-api-client-0.17.0/ri/Google/Apis/DataflowV1b3/RuntimeEnvironment/machine_type-i.ri
+/System/Library/PrivateFrameworks/TimeMachine.framework
+/System/Library/UserEventPlugins/com.apple.TimeMachine.plugin
+/System/Library/UserEventPlugins/TimeMachineUEAPlugin.plugin
+/System/Library/PrivateFrameworks/SystemMigration.framework/Versions/A/Resources/Base.lproj/TimeMachine.icns
+/System/Library/CoreServices/Menu Extras/TimeMachine.menu
+/Users/dhenin/macports/var/macports/sources/rsync.macports.org/release/tarballs/ports/multimedia/lmms/files/patch-cmake-modules-DetectMachine.cmake.diff
+/Users/dhenin/Desktop/14_Travaux_en_cours/Article_Enseignement_Maths/Mathilda_Ohm/Laisse_voir/www.mathsaharry.com/time_machine.gif
+Desktop :; ls -artl ../Downloads/
+total 29095632
+drwxr-xr-x@   36 dhenin  staff        1224 28 mar  2003 html to mhtml
+drwxr-xr-x@    3 dhenin  staff         102  5 déc  2006 say.app
+drwxr-xr-x@    3 dhenin  staff         102  4 jui  2010 MacSpeech Scribe.app
+drwxr-xr-x@    3 dhenin  staff         102 23 oct  2011 1290835-bd0ee475e685eb00cd382a602b315ea7611d2102
+drwxr-xr-x@   24 dhenin  staff         816  9 nov  2011 TEG-PCITXR(3.14)
+drwxr-xr-x@    7 dhenin  staff         238 21 jui  2014 youtubeChannelVideosFinder-master
+drwxr-xr-x    60 dhenin  admin        2040 22 jul  2014 images
+-rw-r--r--@    1 dhenin  admin      981993 28 mar  2017 400974ar.pdf
+-rw-r--r--@    1 dhenin  staff      727421 26 avr  2017 HERM_015_0263.pdf
+-rw-r--r--@    1 dhenin  staff    48365724 30 avr  2017 the-life-deliziosa-nella-campagna-globale-delle-bibite-sanpellegrino-di-ogilvy-mather.mp4
+-rw-r--r--@    1 dhenin  staff     3206445 30 avr  2017 Trumpet_Triplets_David_Morris.mp3
+-rw-r--r--@    1 dhenin  staff     6649154  5 mai  2017 LaTeX-HowTo-full.pdf
+-rw-r--r--@    1 dhenin  staff      110929 10 mai  2017 hermeneutique-cours-de-louvain-introduction.pdf
+drwxr-xr-x    43 dhenin  staff        1462 10 mai  2017 schtroumpfs
+-rw-r--r--@    1 dhenin  staff      650354 14 mai  2017 APHI_762_0217.pdf
+-rw-r--r--@    1 dhenin  staff      968392 16 mai  2017 Linterpretation_est_critique.pdf
+-rw-r--r--@    1 dhenin  staff      536866 16 mai  2017 La_question_de_linterpretation_chez_Niet.pdf
+-rw-r--r--@    1 dhenin  staff     8416357 16 mai  2017 L_oeuf_et_les_Schtroumpfs.pdf
+drwxr-xr-x     4 dhenin  staff         136 21 mai  2017 Maths
+-rw-r--r--@    1 dhenin  staff      437664 24 mai  2017 scratch-fr.pdf
+-rw-r--r--@    1 dhenin  staff     4569598 26 mai  2017 Article_Laflamme.pdf
+-rw-r--r--@    1 dhenin  staff      216153 27 mai  2017 perlbash.pdf
+-rw-r--r--@    1 dhenin  staff      150147 31 mai  2017 petit_manuel_de_bonne_redaction.pdf
+-rw-r--r--@    1 dhenin  staff     2038886 31 mai  2017 Stratégies_lecture_VFINALE.pdf
+-rw-r--r--@    1 dhenin  staff      118093 31 mai  2017 Strategie_lectire_math.pdf
+-rw-r--r--@    1 dhenin  staff      173277 31 mai  2017 typologie_d_aide_maryline_doan_ash-doc.pdf
+-rw-r--r--@    1 dhenin  staff     1014675 31 mai  2017 Ontario_Strategie_math.pdf
+drwxr-xr-x@   16 dhenin  staff         544  4 jui  2017 ink2canvas-master
+-rw-r--r--@    1 dhenin  staff      169599  5 jui  2017 téléchargement.png
+-rw-r--r--@    1 dhenin  staff     2008645  6 jui  2017 TikZ-Manuel.pdf
+drwxr-xr-x     5 dhenin  staff         170 27 jui  2017 TI
+-rw-r--r--@    1 dhenin  staff       94361  1 jul  2017 AAA03023.pdf
+-rw-r--r--@    1 dhenin  staff    10978423  2 jul  2017 PA11.pdf
+-rw-r--r--@    1 dhenin  staff    12328993  2 jul  2017 PA21-22.pdf
+-rw-r--r--@    1 dhenin  staff     5067851  2 jul  2017 2015_cours_ts_final_pucci_obligatoire.pdf
+-rw-r--r--@    1 dhenin  staff       58147  2 jul  2017 Algoritmique_jjd.pdf
+-rw-r--r--@    1 dhenin  staff      204009  2 jul  2017 resume03.pdf
+-rw-r--r--@    1 dhenin  staff      507499  3 jul  2017 marc_legrand_qpes_2017_et_annexes.pptx
+-rw-r--r--@    1 dhenin  staff     1099671  3 jul  2017 KBR_DidactikMaths.pdf
+-rw-r--r--@    1 dhenin  staff       61279  3 jul  2017 FR9-CourantsPedagogiques.pdf
+-rw-r--r--@    1 dhenin  staff      766889  3 jul  2017 Présentation du package Tikz.pdf
+-rw-r--r--@    1 dhenin  staff     3758007  4 jul  2017 tikzpgfmanual.pdf
+-rw-r--r--@    1 dhenin  staff      351242  4 jul  2017 seance_5.pdf
+-rw-r--r--@    1 dhenin  staff      519177  8 jul  2017 TKZdoc-base.pdf
+-rw-r--r--@    1 dhenin  staff   238329760 14 jul  2017 Pensee_juive.avi
+-rw-r--r--@    1 dhenin  staff    23247884 14 jul  2017 Le_bourgeois_gentilhomme_philosophe.avi
+-rw-r--r--@    1 dhenin  staff   133746436 14 jul  2017 La question du sens.avi
+-rw-r--r--@    1 dhenin  staff      185365 14 jul  2017 Austin.pdf
+-rw-r--r--@    1 dhenin  staff     2419925 20 jul  2017 Le_Sorcier.mp4
+-rw-r--r--     1 dhenin  staff    52941752 20 jul  2017 une-histoire-des-emotions.mp3
+-rw-r--r--@    1 dhenin  staff     1972208 22 jul  2017 TikZ-Impatient.pdf
+-rw-r--r--@    1 dhenin  staff     1507116 22 jul  2017 TikZPourLImpatient.pdf
+-rw-r--r--@    1 dhenin  staff      659480 22 jul  2017 tkz-euclide-screen.pdf
+-rw-r--r--@    1 dhenin  staff      599106 22 jul  2017 TKZdoc-euclide-main.pdf
+-rw-r--r--@    1 dhenin  staff     5480875 22 jul  2017 petit_manuel_pour_tikz_2012.pdf
+-rw-r--r--@    1 dhenin  staff      727493 27 jul  2017 concours2012sol.pdf
+-rw-r--r--@    1 dhenin  staff    42253309  2 aoû  2017 01B_Et_Dieu_crea_N.mp4
+-rw-r--r--@    1 dhenin  staff     2664741  2 aoû  2017 regle.pdf
+-rw-r--r--@    1 dhenin  staff      382475  4 aoû  2017 Schopenhauer-L-art-d-avoir-toujours-raison.pdf
+-rw-r--r--@    1 dhenin  staff    25085525  5 aoû  2017 the-monkey-business-illusion.mp4
+drwxr-xr-x@   21 dhenin  staff         714 12 aoû  2017 wordpress
+-rw-r--r--@    1 dhenin  staff      139009 13 aoû  2017 Chapitre_5_Devoir_fnt_algo_28_02_2011.pdf
+-rw-r--r--@    1 dhenin  staff      311849 13 aoû  2017 Chapitre_5_Devoir_fnt_algo_28_02_2011_correction.pdf
+-rw-r--r--@    1 dhenin  staff     1845537 13 aoû  2017 base-de-pb-ouverts-lycee.pdf
+-rw-r--r--@    1 dhenin  staff    43439810 13 aoû  2017 VIVANTS19971122 - André Comte-Sponville, matérialisme et Orient Par Michel Cazenave.mp3
+-rw-r--r--     1 dhenin  staff     5960098 16 aoû  2017 Andre_Wales.jpg
+-rw-r--r--@    1 dhenin  staff    18708298 17 aoû  2017 Andre_Wales_2.tiff
+-rw-r--r--     1 dhenin  staff    18611728 17 aoû  2017 Andre_Wales.tiff
+-rw-r--r--@    1 dhenin  staff       21034 18 aoû  2017 virement.tiff
+-rw-r--r--@    1 dhenin  staff     8609554 19 aoû  2017 Une minute durera 61 secondes cette nuit.mp4
+-rw-r--r--@    1 dhenin  staff    20944215 19 aoû  2017 Pourquoi la dernieere minute du mois de juin durera 61 secondes et non 60.mp4
+-rw-r--r--@    1 dhenin  staff      258838 20 aoû  2017 VVD65N00EU01.pdf
+-rw-r--r--@    1 dhenin  staff     2871160 21 aoû  2017 Vecteurs_en_seconde.pdf
+-rw-r--r--@    1 dhenin  staff       72396 21 aoû  2017 intro-damasio.pdf
+-rw-r--r--@    1 dhenin  staff    20246070 21 aoû  2017 211169817-Antonio-R-Damasio-Marcel-Blanc-L-erreur-de-Descartes-la-raison-des-emotions-Odile-Jacob-2006-pdf.pdf
+-rw-r--r--@    1 dhenin  staff      489062 26 aoû  2017 JS_1981_Quinze_vainc.pdf
+-rw-r--r--     1 dhenin  staff   214696947 28 aoû  2017 Molière Amphitryon 1967--7udL7CiItc.mp4
+-rw-r--r--@    1 dhenin  staff      894565  3 sep  2017 tutoriel.pdf
+-rw-r--r--@    1 dhenin  staff      260833  7 sep  2017 Recherches en éducation - rapport final - mathématiques expérimentales - activités de modélisat (ressource 2981).PDF
+-rw-r--r--@    1 dhenin  staff      173807  8 sep  2017 menon.pdf
+-rw-r--r--@    1 dhenin  staff       92301  8 sep  2017 TEXTE3.pdf
+-rw-r--r--@    1 dhenin  staff      666954  8 sep  2017 platon_menon_cousin.pdf
+-rw-r--r--@    1 dhenin  staff    93586248 10 sep  2017 Socrates_philo.mp3
+-rw-r--r--@    1 dhenin  staff    39136591 15 sep  2017 The_Saturn_System.ibooks
+-rw-r--r--@    1 dhenin  staff    10952971 18 sep  2017 La_théologie_au_douzième_siècle.pdf
+-rw-r--r--@    1 dhenin  staff      267987 18 sep  2017 prclaudelevistraussesprit63.PDF
+-rw-r--r--@    1 dhenin  staff      246830 21 sep  2017 servitude.pdf
+drwxr-xr-x@    6 dhenin  staff         204 22 sep  2017 HP Calc Fonts
+drwxr-xr-x@   30 dhenin  staff        1020 23 sep  2017 Perlito-master
+-rw-r--r--@    1 dhenin  staff      546954 28 sep  2017 TKZdoc-tab.pdf
+-rw-r--r--@    1 dhenin  staff     2920606 28 sep  2017 Mathoscope.pdf
+-rw-r--r--@    1 dhenin  staff       27362 29 sep  2017 Cef_d_ut.jpg
+-rw-r--r--@    1 dhenin  staff     1763259  1 oct  2017 le_procede_la_martiniere_presente_par_un_inspecteur_primaire_de_la_fin_du_xixeme_siecle.pdf
+-rw-r--r--@    1 dhenin  staff       22438  2 oct  2017 y0kIl7-Momgu2Wnb7nqhw-AmGlQ@256x207.jpg
+-rw-r--r--@    1 dhenin  staff      127966  2 oct  2017 programme_francais_general_33218.pdf
+-rw-r--r--@    1 dhenin  staff     1085784  3 oct  2017 agtxt_Escamoteur_Illusion.pdf
+-rw-r--r--@    1 dhenin  staff      108144  3 oct  2017 L_escamoteur_Piem.jpg
+-rw-r--r--@    1 dhenin  staff      187589  5 oct  2017 RA16_C4_MATH_comm_ecrit_oral_polysemiques_548386.pdf
+-rw-r--r--@    1 dhenin  staff     1681296  6 oct  2017 melencolia21.jpg
+-rw-r--r--@    1 dhenin  staff       83422  8 oct  2017 printf[1]2.pdf
+-rw-r--r--@    1 dhenin  staff     2207232 10 oct  2017 IntroPython.pdf
+-rw-r--r--@    1 dhenin  staff       31878 13 oct  2017 Bug.jpg
+-rw-r--r--@    1 dhenin  staff      833236 14 oct  2017 1-_scratch-explorateur_presentation.pdf
+-rw-r--r--@    1 dhenin  staff      949874 14 oct  2017 vue_generale_V2.gif
+-rw-r--r--@    1 dhenin  staff        5687 16 oct  2017 Menon_(Platon).jpg
+-rw-r--r--@    1 dhenin  staff   186502838 17 oct  2017 le-mythe-de-la-caverne.mp4
+-rw-r--r--@    1 dhenin  staff    43739592 17 oct  2017 alegorie-de-la-caverne-de-platon.mp4
+-rw-r--r--@    1 dhenin  staff    14447301 17 oct  2017 platon-allegorie-de-la-caverne.mp4
+-rw-r--r--@    1 dhenin  staff    29252750 18 oct  2017 THE EMOJI MOVIE - Official Trailer (HD).mp4
+-rw-r--r--@    1 dhenin  staff   186342674 19 oct  2017 Menon.mp4
+-rw-r--r--     1 dhenin  staff       12288 20 oct  2017 .sc.c.swp
+-rw-r--r--@    1 dhenin  staff     5407751 24 oct  2017 Surface_sphere.gif
+-rw-r--r--@    1 dhenin  staff   130668672 25 oct  2017 samedis FrQ 1978 12 16 Olivier Messiaen, réponses et réflexions.mp3
+-rw-r--r--@    1 dhenin  staff       50310 26 oct  2017 Utilisation.pdf
+drwxr-xr-x     5 dhenin  staff         170 27 oct  2017 LaoTseu
+-rw-r--r--@    1 dhenin  staff        3756 29 oct  2017 Racine_de_2.srt
+-rw-r--r--@    1 dhenin  staff      195789 30 oct  2017 td de la formation.pdf
+-rw-r--r--@    1 dhenin  staff       69415  1 nov  2017 tp8.pdf
+-rw-r--r--@    1 dhenin  staff    11009855  1 nov  2017 1984-07.pdf
+-rw-r--r--@    1 dhenin  staff    21298031  5 nov  2017 The C Programming Language - 2nd Edition - Ritchie Kernighan.pdf
+-rw-r--r--@    1 dhenin  staff     1872483 10 nov  2017 UserGuide.pdf
+-rw-r--r--@    1 dhenin  staff     3009509 10 nov  2017 LatexPourLeProfDeMaths.pdf
+-rw-r--r--@    1 dhenin  staff       54220 10 nov  2017 Petite_liseure.png
+-rw-r--r--@    1 dhenin  staff    11500487 12 nov  2017 archimedes.mp4
+drwxr-xr-x@    5 dhenin  staff         170 19 nov  2017 Takeout
+-rw-r--r--@    1 dhenin  staff    64006292 24 nov  2017 Magic Spinner 2.0 - Tutorial.mp4
+-rw-r--r--@    1 dhenin  staff       88419  2 déc  2017 tp11.pdf
+-rw-r--r--@    1 dhenin  staff      111222  2 déc  2017 tubes_nommes.pdf
+drwxr-xr-x@   10 dhenin  staff         340  7 déc  2017 BDS2-VP
+-rw-r--r--@    1 dhenin  staff    23917871  7 déc  2017 the_c_programming_language_2.pdf
+-rw-r--r--@    1 dhenin  staff      843843 13 déc  2017 Pythagore.mp4
+-rw-r--r--@    1 dhenin  staff      482883 13 déc  2017 Thales.swf
+-rw-r--r--@    1 dhenin  staff      786210 13 déc  2017 Thales.mp4
+drwxr-xr-x@    3 dhenin  staff         102 15 déc  2017 Xia_Installer.app
+drwxr-xr-x@    5 dhenin  staff         170 17 déc  2017 4eme
+-rw-r--r--@    1 dhenin  staff     4481169 17 déc  2017 memoire Julia Pilet.pdf
+-rw-r--r--@    1 dhenin  staff       33252 18 déc  2017 ts06_ds3cor.pdf
+-rw-r--r--@    1 dhenin  staff      288418 21 jan  2018 Arbelos.tiff
+-rw-r--r--@    1 dhenin  staff      858672 21 jan  2018 Arbelos.jpg
+-rw-r--r--@    1 dhenin  staff      256760  6 fév 07:44 michel_foucault45_0.jpg
+-rw-r--r--     1 dhenin  staff           0 15 fév 17:23 .localized
+-rw-r--r--@    1 dhenin  staff        8046 20 fév 16:42 logo-1-150x150.png
+-rw-r--r--@    1 dhenin  staff       87475 24 fév 17:14 545b7c928b7e9.pdf
+-rw-r--r--@    1 dhenin  staff      147032 25 fév 04:58 Structures_mathematiques_du_langage.pdf
+-rw-r--r--@    1 dhenin  staff     8715051 25 fév 05:06 These_CCoussinet_2007.pdf
+-rw-r--r--@    1 dhenin  staff   221823582 25 fév 05:18 Les théorèmes d'incomplétude de Gödel — Science étonnante #37.mp4
+-rw-r--r--@    1 dhenin  staff    82239867 25 fév 06:07 la-machine-a-inventer-des-mots-avec-code-mu-science-etonnante-17.mp4
+-rw-r--r--@    1 dhenin  staff      172983 25 fév 07:37 18414-Formation des mots.pdf
+drwx------@   25 dhenin  staff         850 25 fév 08:36 Racines Grecques_files
+drwx------@   10 dhenin  staff         340 25 fév 09:45 Lexique des racines, préfixes, suffixes_files
+drwx------@   20 dhenin  staff         680 25 fév 10:15 Racines grecques — Wikipédia_files
+drwxr-xr-x     3 dhenin  staff         102 26 fév 08:17 www.conotron.fr
+-rw-r--r--@    1 dhenin  staff     1775486 27 fév 14:39 Racines_grecques.html
+-rw-r--r--@    1 dhenin  staff      122903  1 mar 19:24 unnamed.gif
+-rw-r--r--@    1 dhenin  staff    32286642  4 mar 09:22 MATINALES (FC) - Le langage - Paul Ricoeur - du 25.05 au 03.06.1978.mp3
+-rw-r--r--@    1 dhenin  staff     1016468 10 mar 18:10 Scena_di_commedia,_musici_ambulanti,_da_villa_di_cecerone_a_pompei,_9985,_03.JPG
+-rw-r--r--@    1 dhenin  staff      396689 13 mar 07:04 RADIOLA.jpg
+-rw-r--r--@    1 dhenin  staff   199212129 15 mar 05:39 Hommage à Django Reinhardt et Didier Lockwood par The Amazing Keystone Big Band - Concert Du Soir (10 03 2018).zip
+-rw-r--r--@    1 dhenin  staff   124220224 16 mar 11:28 Comment PENSER comme SHERLOCK HOLMES.mp4
+-rw-r--r--@    1 dhenin  staff   183906473 18 mar 06:35 Les Derniers Jours D'Emmanuel Kant (The Last Days of Immanuel Kant w English subs).mp4
+-rw-r--r--@    1 dhenin  staff      596667 18 mar 12:18 AImer_comprendre_Berner.pdf
+-rw-r--r--@    1 dhenin  staff        1148 29 mar 13:56 PHILAMBULE19971029 - La demande Philosophique (Jacques Bouvresse).txt
+-rw-r--r--@    1 dhenin  staff    69324800 29 mar 13:57 PHILAMBULE19971029 - La demande Philosophique (Jacques Bouvresse).mp3
+-rw-r--r--@    1 dhenin  staff    38261720  3 avr 08:02 Clonix_CD_090315.zip
+drwx------@    8 dhenin  staff         272  3 avr 08:04 USB-82143A
+-rw-r--r--@    1 dhenin  staff    23725522  3 avr 15:29 Vocabulaire.pdf
+drwxr-xr-x     4 dhenin  staff         136  3 avr 19:40 France 5
+-rw-r--r--@    1 dhenin  staff       22927  5 avr 14:14 62771737.jpg
+-rw-r--r--@    1 dhenin  staff      413411  5 avr 19:45 Alignement_avec_vecteur.jpg
+-rw-r--r--@    1 dhenin  staff       40294  9 avr 08:49 hep-clnx.zip
+-rw-r--r--@    1 dhenin  staff     7188463 11 avr 09:10 Theater_gruppe.jpg
+-rw-r--r--@    1 dhenin  staff       42227 18 avr 04:40 Chats_Go.jpg
+-rw-r--r--@    1 dhenin  staff       13495 19 avr 12:01 Test_Suites.zip
+drwxr-xr-x@   45 dhenin  staff        1530 19 avr 12:03 Test_Suites
+-rw-r--r--@    1 dhenin  staff      620076 28 avr 15:27 Mansion_Saturne.jpg
+-rw-r--r--@    1 dhenin  staff       53155 29 avr 12:05 Jésus-et-les-maths.jpg
+-rw-r--r--@    1 dhenin  staff      160535  1 mai 14:56 arton4314-c6c60.png
+-rw-r--r--@    1 dhenin  staff     2322962  1 mai 15:22 arton4314-c6c60.tiff
+drwxr-xr-x     2 dhenin  staff          68  1 mai 19:04 test
+-rw-r--r--@    1 dhenin  staff      100690  8 mai 19:56 manquants pydio.pdf
+-rw-r--r--@    1 dhenin  staff      406734 11 mai 14:12 Odenmacho_Utagawa_Hiroshige.jpg
+-rw-r--r--@    1 dhenin  staff       11520 12 mai 08:11 troiscourbes.png
+-rw-r--r--@    1 dhenin  staff        6118 12 mai 08:24 triangle02.gif
+-rw-r--r--@    1 dhenin  staff       28889 12 mai 18:37 Resolution_de_problemes_d_algebre.pdf
+-rw-r--r--@    1 dhenin  staff      309226 24 mai 11:08 tikzlibraryspline.pdf
+drwx------@    5 dhenin  staff         170 28 mai 08:51 fwdinformationjuridiquemodledecourrier
+-rw-r--r--@    1 dhenin  staff       33761  1 jui 06:46 Un_monde_haut_en_couleur.png
+-rw-r--r--@    1 dhenin  staff      265562  9 jui 21:14 Méthodologie pour l'épreuve de mathémat...s, série S - Terminale S Mathématiques.pdf
+drwxr-xr-x   928 dhenin  staff       31552 16 jui 16:33 Philo_copie
+drwxr-xr-x   233 dhenin  staff        7922 18 jui 17:59 Nouveaux_chemins_2012
+drwxr-xr-x   210 dhenin  staff        7140 18 jui 18:11 Nouveaux_chemins_2011
+drwxr-xr-x  1002 dhenin  staff       34068 18 jui 20:40 Nouveaux_chemins_vide
+-rw-r--r--@    1 dhenin  staff       13025 19 jui 09:30 Scilicet_avant_weaverx-settings.wxb
+-rw-r--r--@    1 dhenin  staff    61436875 19 jui 12:45 nextcloud-13.0.4.zip
+drwxr-xr-x     3 dhenin  staff         102 19 jui 14:20 Nouveaux_chemins
+-rw-r--r--@    1 dhenin  staff    71606696 19 jui 16:53 Vivaldi.1.15.1147.47.dmg
+-rw-r--r--@    1 dhenin  staff        4147 19 jui 17:03 thebrig-cypries.dhenin.fr-20180619170339.jails
+-rw-r--r--@    1 dhenin  staff     8033524 20 jui 05:45 A[N]PéRo 2018-04-06.zip
+drwxr-xr-x@    7 dhenin  staff         238 20 jui 05:45 A[N]PéRo 2018-04-06
+-rw-r--r--@    1 dhenin  staff   525242735 20 jui 20:54 Knock_sous-titres_russes.mp4
+-rw-r--r--@    1 dhenin  staff    13309614 21 jui 07:12 Kris_Marker.mp4
+-rw-r--r--@    1 dhenin  staff      514692 21 jui 17:26 Lettre_Paris_6_motivation.pdf
+-rw-r--r--@    1 dhenin  staff     9332282 21 jui 18:23 Liste_de_entrees.txt
+-rw-r--r--@    1 dhenin  staff   621606319 21 jui 18:39 sans-soleil-chris-marker-1983-fr.mp4
+-rw-r--r--@    1 dhenin  staff    28012504 22 jui 04:39 affinités électives 2007 06 21 henry bauchau.mp3
+-rw-r--r--@    1 dhenin  staff          53 22 jui 05:34 liste0
+-rw-r--r--@    1 dhenin  staff      211338 23 jui 07:29 Capture d’écran 2018-06-23 à 07.25.08.jpg
+-rw-r--r--@    1 dhenin  staff    91706508 25 jui 06:33 scilicet.local-20180625-041359-382.wpress
+-rw-r--r--@    1 dhenin  staff       70649 25 jui 14:26 rapporteurs-eleves.pdf
+-rw-r--r--@    1 dhenin  staff     1212901 25 jui 14:44 20180625_143718[1].jpg
+-rw-r--r--@    1 dhenin  staff       86016 26 jui 15:23 LogExpo.doc
+-rw-r--r--@    1 dhenin  staff    62836535 27 jui 05:31 2005_09_27_benoist_Theorie_realiste_de_la_perception.mp3
+-rw-r--r--@    1 dhenin  staff     8954566 27 jui 11:41 le-petit-train-rebus-ortf.mp4
+-rw-r--r--@    1 dhenin  staff      259142 27 jui 14:22 2016_02_bb_sujet.pdf
+-rw-------@    1 dhenin  staff    57169920 28 jui 13:52 .com.google.Chrome.UyL5Wq
+-rw-------@    1 dhenin  staff    57337856 28 jui 13:52 .com.google.Chrome.KCQUkm
+-rw-------@    1 dhenin  staff    57161728 28 jui 13:52 .com.google.Chrome.43laoB
+-rw-------@    1 dhenin  staff    56772608 28 jui 13:52 .com.google.Chrome.miu4E1
+-rw-------@    1 dhenin  staff    57071616 28 jui 13:52 .com.google.Chrome.9RJTiC
+-rw-------@    1 dhenin  staff    57255936 28 jui 13:52 .com.google.Chrome.tUyhYU
+-rw-------@    1 dhenin  staff    57028736 28 jui 13:52 .com.google.Chrome.bvL3Ol
+-rw-------@    1 dhenin  staff    56453248 28 jui 13:52 .com.google.Chrome.HYgorY
+-rw-------@    1 dhenin  staff    57096320 28 jui 13:52 .com.google.Chrome.q9l1aU
+-rw-------@    1 dhenin  staff    57204864 28 jui 13:52 .com.google.Chrome.og6Oyj
+drwxr-xr-x     4 dhenin  staff         136 28 jui 17:59 Aspirateur
+-rw-r--r--@    1 dhenin  staff       99890 29 jui 05:44 brevet_2018-corrige.pdf
+-rw-r--r--@    1 dhenin  staff       99919 29 jui 11:42 brevet_gen_2018-corrige.pdf
+-rw-r--r--@    1 dhenin  staff     1942811 29 jui 18:43 sujetBrevetMetropoleJuin2018.pdf
+-rw-r--r--@    1 dhenin  staff      115041 30 jui 13:56 edward-aux-mains-d-argent-french-dvdrip-1991-10.torrent
+-rw-r--r--@    1 dhenin  staff      282879 30 jui 15:29 15c95da73f6b66dd37a4c6789cb1c8a3.ico.zip
+drwx------@   29 dhenin  staff         986 30 jui 15:30 15c95da73f6b66dd37a4c6789cb1c8a3.ico
+-rw-r--r--@    1 dhenin  staff   230491308  2 jul 11:55 Wayne W.DYER ॐ TA te King CHANGEZ vos PENSÉES changez votre VIE Livre audio COMPLET [1].webm
+-rw-r--r--@    1 dhenin  staff     9792450  3 jul 05:35 Hallucii.mp4
+-rw-r--r--@    1 dhenin  staff    11674355  3 jul 07:07 Labyrinth-Within You.mp4
+-rw-r--r--@    1 dhenin  staff    12271165  3 jul 09:36 La_plus_vieille_bouteille_a_la_mer.mp4
+-rw-r--r--@    1 dhenin  staff     3813608  3 jul 18:24 winmail.dat
+-rw-r--r--@    1 dhenin  staff      583601  4 jul 10:13 Histoire d'IP.docx
+-rw-r--r--@    1 dhenin  staff   264210236  4 jul 13:53 The Best of Georges Brassens (full album).mp4
+-rw-r--r--@    1 dhenin  staff    17382442  4 jul 14:34 Charles Trenet et Georges Brassens.mp4
+-rw-r--r--@    1 dhenin  staff    19176582  4 jul 14:52 Buddy Greene  -  Orange Blossom Special 1994!!!.mp4
+-rw-r--r--@    1 dhenin  staff    29176266  6 jul 07:07 mathilde.local-20180706-050710-393.wpress
+-rw-r--r--     1 dhenin  staff   288514321  9 jul 13:57 Chapeau melon et bottes de cuir - ARTE-EkvIkraYczk.mp4
+-rw-r--r--     1 dhenin  staff   354344060  9 jul 20:26 Chapeau melon et bottes de cuir - ARTE-q3yPLj4G9EY.mp4
+-rw-r--r--@    1 dhenin  staff      201731 10 jul 12:49 tikzlignes.pdf
+-rw-r--r--     1 dhenin  staff   196966986 10 jul 19:22 Chapeau melon et bottes de cuir - ARTE-E_hWIbsmBOI.mp4
+-rw-r--r--     1 dhenin  staff   329063853 11 jul 00:40 Chapeau melon et bottes de cuir - ARTE-R2T7_4tSiCE.mp4
+-rw-r--r--     1 dhenin  staff   351062223 11 jul 14:14 Chapeau melon et bottes de cuir - ARTE-PlY6-25yBGg.mp4
+-rw-r--r--     1 dhenin  staff   299153282 11 jul 14:23 Chapeau melon et bottes de cuir - ARTE-metkFQweXrg.mp4
+-rw-r--r--@    1 dhenin  staff   353299264 11 jul 14:56 Chapeau melon et bottes de cuir - ARTE.mp4
+-rw-r--r--     1 dhenin  staff   255059337 12 jul 12:23 Chapeau melon et bottes de cuir - ARTE-Ln-n4oPTVB8.mp4
+192.168.0.91 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1KMExEpqZJX7z/Q7m5aLV9q6S8MOXI799kmOJT/z0ki74xaEFwuw1qS2NOx9KxaJtdI9yOnueZXZOSI+cCdAAAMn/0ditNGK0FZD+yP9pGdateGu50poz1MrmnFJISnRFBj/OeJDB98mNqTqdFBNk8wSyNU6GZc07FQ8hAE05mo/UuuVm3+w0ZVON5RNgOd1aO0a2K5EfhXcIym3ahrhAQPhEBQ1J2JMYk/YpaZ+7gezk0S0JA5Geu8jPjmBVSO915VsPcDl5XpwkVwe+PvJ19xZfnH/6q68oNhqbI7dlctVOAHk6+7gHi6M1NG64d1vCQRGM9KuSvNzgUXuaL6mWw==
+192.168.0.40 ssh-dss AAAAB3NzaC1kc3MAAAEBAPH5Hcrc2QzIi7KQLf17N+aUuFfwb7uKxuojzmO3kyb3nMdn3s+rfTCJLWTJeHCeKb6yMpDF1XGXZwVN+omWV8CsA9tivOHYzZws3b0QB/JENjYmhHbNkKijm6EWXSyvsJ2RuFj0PC8+cv77ZFx7VTnrwZk6Excv7v51j+qo5BejLL1ZybISld/n3kQWE+GJqBYJ9zp/25XEl7macH02o58lRhfqygunDlKm4yiq34pfkA7FS4eHNzcXGvmtQlAHeDts1APbKq8OAoYoyCo0gjK9nbAwbfm0yqM51+eIo3H6xLWjSBdMI9guqndNJWps9PpKHa3bvM1xFB3vfoQZ6m8AAAAVAKf8ZCwMgP4ZpqwwNw4vIn1AuLnfAAABAQCVfUrpUWFvf/TXPucJde4CuAmtoMOrjpepAiXK7N9dwGyq/PbVxr4tnJ/RTyNGOFmBroc6/n0MnxR0qmkQPJNtM/Yz+kk+BCgwsyu2uenVOIX/eJFuQPQYiUdktTcgAyChMp99WF4yfKKgv1CDdMkpFi8xgBEN03s1sOKCRNwJ5rlpTNqh9LatuRyzWOIjNd7atkEYIQK92idJgqSmleo+UhJFfoOGjYlRbsnRVbvfqh7GVd7SSydhKhdb2eZjj2J8eMBwHNl1FLtqt02cnFW3FQDdXPbYYakN25z3F3sex/CPuBGJ0HRGq+y/Ynj/m99TPq9vLkzSUQPR4MmQ5feoAAABAG5L9ffMc/8T9dTeF7FEPlS54ka73M+pNY/5ehMykrrS9CVjFmvpeclnxkBpvjt3G5IlvkSsjUEE6kMk7mW9EV+USL0TTU/LavxXD8fLCSiIwResfLDRxjixjxVI1ouZeKNQ6B3tPOWOEIKR5nPlc7iy435nS77/NM3yBFH0KGdepr+3ZmdgWAjDLKjQhNyCz4Joc1IH1Vf5Ccvb6rsaJ91ajiq29iI2ZpLXXIQsS1ZYzO1Gr9xBTNgmzEmeLqFMcxDSJ+rLMF4VDjRdL2zz5BSmv/Ffj2nICMgv/gj3zzuk7zcMpnbvGyA3W8VWb6IjJDvww4rJ21Q2gHBC5XCohJs=
+86.66.193.14 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+colette ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+192.168.0.25 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1KMExEpqZJX7z/Q7m5aLV9q6S8MOXI799kmOJT/z0ki74xaEFwuw1qS2NOx9KxaJtdI9yOnueZXZOSI+cCdAAAMn/0ditNGK0FZD+yP9pGdateGu50poz1MrmnFJISnRFBj/OeJDB98mNqTqdFBNk8wSyNU6GZc07FQ8hAE05mo/UuuVm3+w0ZVON5RNgOd1aO0a2K5EfhXcIym3ahrhAQPhEBQ1J2JMYk/YpaZ+7gezk0S0JA5Geu8jPjmBVSO915VsPcDl5XpwkVwe+PvJ19xZfnH/6q68oNhqbI7dlctVOAHk6+7gHi6M1NG64d1vCQRGM9KuSvNzgUXuaL6mWw==
+192.168.0.4 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAltYjJT9hFUmIkgxHkIsrbaaKB3vZjZG7ITzFJ8AoBiwmzj2y7xfj7tDz5YSUpnqMHJDLH1oU6mR5U9+ISTMYCX3LJWGPlQFJuWDwLds8GYpMUOrdxj3elXfi/ZzP1PknsubvzV35iDMukWgChNPzAj3NH4cnyzbwDPXqLtkc6eIYMOY+Oz8GiLwEomdyfzT8RmsWTZEN7RPbLWIsxTBOTu2QsuDYDZQ4iiZ+8ZvY/lg42K6JUgMd1Cn+2wWak2bzha48YF2wv0wWUxmMwUoFbTItXKBiqujQeQ30922wIQVupeykgTT+KiVFqiTs9rr1/biQ+ip4NvaIviivtR0IGw==
+86.66.193.10 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.244 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+192.168.0.3 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfey4i6LHVEYZYtbiTOYwMg+VuL1zZeeoo9ekrloY+2KBHYqn3kpm5NQBoNP2IYNVuklljcMA8b3q81l4ODFs1Q9uDih+GftFzyTIS29Udam+7GtrleEtSo9kjisAQOeEC606HYmlHZRhQ5tJnj3lCpHw7OAzknxeQAhhUuy4SMbge1HXEUVzbH218/juN0ZENdjTajrd1nUX7Tdu2VQXGFKTqc28e6pG08sEUUjmv9O4fLJG3qJxyVBPKvCN3wYYoNd1/53Q9CcUIHzF/8UUBFFZczyqa6IdHEK16e0/sLl9Zr1V14Z8XH/uBYFPBjhyVZy1bdt7GKJ/cNQ5x2x5l
+acamas ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfey4i6LHVEYZYtbiTOYwMg+VuL1zZeeoo9ekrloY+2KBHYqn3kpm5NQBoNP2IYNVuklljcMA8b3q81l4ODFs1Q9uDih+GftFzyTIS29Udam+7GtrleEtSo9kjisAQOeEC606HYmlHZRhQ5tJnj3lCpHw7OAzknxeQAhhUuy4SMbge1HXEUVzbH218/juN0ZENdjTajrd1nUX7Tdu2VQXGFKTqc28e6pG08sEUUjmv9O4fLJG3qJxyVBPKvCN3wYYoNd1/53Q9CcUIHzF/8UUBFFZczyqa6IdHEK16e0/sLl9Zr1V14Z8XH/uBYFPBjhyVZy1bdt7GKJ/cNQ5x2x5l
+pyracmon ssh-dss AAAAB3NzaC1kc3MAAAEBAPH5Hcrc2QzIi7KQLf17N+aUuFfwb7uKxuojzmO3kyb3nMdn3s+rfTCJLWTJeHCeKb6yMpDF1XGXZwVN+omWV8CsA9tivOHYzZws3b0QB/JENjYmhHbNkKijm6EWXSyvsJ2RuFj0PC8+cv77ZFx7VTnrwZk6Excv7v51j+qo5BejLL1ZybISld/n3kQWE+GJqBYJ9zp/25XEl7macH02o58lRhfqygunDlKm4yiq34pfkA7FS4eHNzcXGvmtQlAHeDts1APbKq8OAoYoyCo0gjK9nbAwbfm0yqM51+eIo3H6xLWjSBdMI9guqndNJWps9PpKHa3bvM1xFB3vfoQZ6m8AAAAVAKf8ZCwMgP4ZpqwwNw4vIn1AuLnfAAABAQCVfUrpUWFvf/TXPucJde4CuAmtoMOrjpepAiXK7N9dwGyq/PbVxr4tnJ/RTyNGOFmBroc6/n0MnxR0qmkQPJNtM/Yz+kk+BCgwsyu2uenVOIX/eJFuQPQYiUdktTcgAyChMp99WF4yfKKgv1CDdMkpFi8xgBEN03s1sOKCRNwJ5rlpTNqh9LatuRyzWOIjNd7atkEYIQK92idJgqSmleo+UhJFfoOGjYlRbsnRVbvfqh7GVd7SSydhKhdb2eZjj2J8eMBwHNl1FLtqt02cnFW3FQDdXPbYYakN25z3F3sex/CPuBGJ0HRGq+y/Ynj/m99TPq9vLkzSUQPR4MmQ5feoAAABAG5L9ffMc/8T9dTeF7FEPlS54ka73M+pNY/5ehMykrrS9CVjFmvpeclnxkBpvjt3G5IlvkSsjUEE6kMk7mW9EV+USL0TTU/LavxXD8fLCSiIwResfLDRxjixjxVI1ouZeKNQ6B3tPOWOEIKR5nPlc7iy435nS77/NM3yBFH0KGdepr+3ZmdgWAjDLKjQhNyCz4Joc1IH1Vf5Ccvb6rsaJ91ajiq29iI2ZpLXXIQsS1ZYzO1Gr9xBTNgmzEmeLqFMcxDSJ+rLMF4VDjRdL2zz5BSmv/Ffj2nICMgv/gj3zzuk7zcMpnbvGyA3W8VWb6IjJDvww4rJ21Q2gHBC5XCohJs=
+86.66.193.91 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.179 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.136 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.57 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+86.66.193.175 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzu3IAQ0eI+JGpSUrDvkIZyh3S5lmAyUspFNBcue4J02CF5gyLQGJlhjl6MDgl2JTlvMilu8FZMFvfc7xSNTqKozkFbzNfy+jLTzHyy1k+oBWB9/8q1zr/dS+jw5q5wqAEjg00iuf8H3kVzPkQOJc/7DAxZJhOglzAdQq2iuRMvB+29+eZALOxxv4yyV5be8DnsOqZfuNR5sU5rkOG5Qlft9/r57a3b3VmRMSqhumb2a75My2oa6ZePikJkt91t+QjXE68pagvHq3jIbkOSZzDCuAs/w9pQTdpQCbmXGvAeWkEMUbrTBbCP7/4KmwtwlEO2mhK6tvlQYck5PtFRyuh
+@                                                                                                                                                    @
+"known_hosts" 78L, 25835C                                                                                                          1,1  Top
+192.168.85.100 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIvI5iXzQzbx5qOkeKZyyPuedE5ELBOLT+0E54pMb7QiXo8a6WHjzVc/ZHl8AQ-rw-r--r--@    1 dhenin  staff   352106641 13 jul 12:40 chapeau-melon-et-bottes-de-cuir-arte.mp4
+-rw-r--r--@    1 dhenin  staff   368427968 13 jul 12:41 chapeau-melon-et-bottes-de-cuir-arte (1).mp4
+-rw-r--r--     1 dhenin  staff   355824978 13 jul 14:35 Chapeau melon et bottes de cuir - ARTE-YEO6A1PXeYs.mp4
+-rw-r--r--     1 dhenin  staff   249297579 13 jul 20:27 Chapeau melon et bottes de cuir - ARTE-lxQU2pXCXNA.mp4
+-rw-r--r--     1 dhenin  staff   242690397 14 jul 21:52 Ainsi parlait Zarathoustra - Friedrich Nietzsche-MlvHSb_0IiE.mp4
+-rw-r--r--@    1 dhenin  staff   406204586 15 jul 13:30 XigmaNAS-x64-LiveUSB-11.2.0.4.5748.img.gz
+-rw-r--r--@    1 dhenin  staff  1066401792 15 jul 13:31 XigmaNAS-x64-LiveUSB-11.2.0.4.5748.img
+-rw-r--r--     1 dhenin  staff   286255807 16 jul 12:57 Chapeau melon et bottes de cuir - ARTE-E4dRk6e78UA.mp4
+
+Options Rsync
+Pour afficher les options rsync utilisées pour la sauvegarde, exécutez ./rsync_tmbackup.sh --rsync-get-flags. Il est également possible d'ajouter ou de supprimer des options en utilisant l' --rsync-set-flagsoption. Par exemple, pour exclure les autorisations et les groupes de sauvegarde:
+
+rsync_tmbackup --rsync-set-flags "--numeric-ids --links --hard-links \
+--one-file-system --archive --no-perms --no-groups --itemize-changes" /src /dest
+Pas d'expiration de sauvegarde automatique
+Une option permettant de tester le comportement par défaut pour purger les anciennes sauvegardes en cas d'espace insuffisant. Cette option est définie avec le --no-auto-expiredrapeau.
+
+Comment restaurer
+Le script crée une sauvegarde dans un répertoire régulier afin que vous puissiez simplement copier les fichiers dans le répertoire d'origine. Vous pourriez le faire avec quelque chose comme rsync -aP /path/to/last/backup/ /path/to/restore/to/. Pensez à utiliser l' --dry-runoption pour vérifier ce qui va exactement être copié. Utilisez --deletecette option si vous souhaitez également supprimer les fichiers présents dans la destination mais pas dans la sauvegarde (vous devez évidemment prendre des précautions supplémentaires lors de l'utilisation de cette option).
+
+Extensions
+rtb-wrapper : Permet de créer des profils de sauvegarde dans les fichiers de configuration. Gère les opérations de sauvegarde et de restauration.
+voyage dans le temps : intégration facile dans le centre de notifications OSX
+FAIRE
+Vérifiez la source et le système de fichiers de destination ( df -T /dest). Si l'un d'eux est FAT, utilisez le paramètre --modify-window rsync (voir man rsync) avec une valeur de 1 ou 2
+Ajouter des --whole-filearguments sur Windows? Voir http://superuser.com/a/905415/73619
+Changements mineurs (voir les commentaires TODO dans la source).
+LICENCE
+La licence MIT (MIT)
+
+Copyright (c) 2013-2018 Laurent Cozic
+
+La permission est par la présente accordée à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le «Logiciel»), de traiter le Logiciel sans restriction, y compris sans limitation les droits d'utilisation, de copie, de modification, de fusion , publier, distribuer, sous-licencier et / ou vendre des copies du Logiciel et permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous réserve des conditions suivantes:
+
+L'avis de copyright ci-dessus et cet avis d'autorisation doivent être inclus dans toutes les copies ou parties substantielles du logiciel.
+
+LE LOGICIEL EST FOURNI «EN L'ÉTAT», SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET DE NON-CONTREFAÇON. EN AUCUN CAS LES AUTEURS OU LES DÉTENTEURS DE COPYRIGHT NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION DE CONTRAT, DÉLICTUELLE OU AUTRE, DÉCOULANT DE OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU AUTRES TRANSACTIONS LOGICIEL.
+
+© 2018 GitHub , Inc.
+termes
+Intimité
+Sécurité
+Statut
+Aidez-moi
+Contactez GitHub
+API
+Entraînement
+Boutique
+Blog
+Sur
+1G
+~
+                                                                                                                  113,2         Bot
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de / vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+/\
+
+  0 */1 * * * if [[ -d /mnt/backup ]]; then rsync_tmbackup.sh /home /mnt/backup; fi
+Logique d'expiration de sauvegarde
+Les jeux de sauvegarde sont automatiquement supprimés suite à une stratégie d'expiration simple définie avec le --strategydrapeau. Cette stratégie est une série d'intervalles de temps avec chaque élément étant défini comme x:y, ce qui signifie "après x jours, conserver une sauvegarde tous les jours y". La stratégie par défaut est 1:1 30:7 365:30, ce qui signifie:
+
+Après 1 jour, gardez une sauvegarde tous les 1 jours ( 1: 1 ).
+Après 30 jours, conservez une sauvegarde tous les 7 jours ( 30: 7 ).
+Après 365 jours, conservez une sauvegarde tous les 30 jours ( 365: 30 ).
+Avant le premier intervalle (c'est-à-dire par défaut dans les premières 24 heures), il est implicite que tous les jeux de sauvegarde sont conservés. En outre, si le répertoire de destination de sauvegarde est plein, les sauvegardes les plus anciennes sont supprimées jusqu'à ce qu'il y ait suffisamment d'espace disponible.
+
+Fichier d'exclusion
+Un fichier d'exclusion facultatif peut être fourni en tant que troisième paramètre. Il devrait être compatible avec le --exclude-fromparamètre de rsync. Voir ce tutoriel pour plus d'informations.
+
+Serrure intégrée
+Le script est conçu pour qu'une seule opération de sauvegarde puisse être active pour un répertoire donné. Si une nouvelle opération de sauvegarde est démarrée alors qu'une autre est toujours active (c'est-à-dire qu'elle n'est pas encore terminée), la nouvelle sera automatiquement interrompue. Merci à cela l'utilisation de flockpour exécuter le script n'est pas nécessaire.
+
+Options Rsync
+Pour afficher les options rsync utilisées pour la sauvegarde, exécutez ./rsync_tmbackup.sh --rsync-get-flags. Il est également possible d'ajouter ou de supprimer des options en utilisant l' --rsync-set-flagsoption. Par exemple, pour exclure les autorisations et les groupes de sauvegarde:
+
+rsync_tmbackup --rsync-set-flags "--numeric-ids --links --hard-links \
+--one-file-system --archive --no-perms --no-groups --itemize-changes" /src /dest
+Pas d'expiration de sauvegarde automatique
+Une option permettant de tester le comportement par défaut pour purger les anciennes sauvegardes en cas d'espace insuffisant. Cette option est définie avec le --no-auto-expiredrapeau.
+
+Comment restaurer
+Le script crée une sauvegarde dans un répertoire régulier afin que vous puissiez simplement copier les fichiers dans le répertoire d'origine. Vous pourriez le faire avec quelque chose comme rsync -aP /path/to/last/backup/ /path/to/restore/to/. Pensez à utiliser l' --dry-runoption pour vérifier ce qui va exactement être copié. Utilisez --deletecette option si vous souhaitez également supprimer les fichiers présents dans la destination mais pas dans la sauvegarde (vous devez évidemment prendre des précautions supplémentaires lors de l'utilisation de cette option).
+
+Extensions
+rtb-wrapper : Permet de créer des profils de sauvegarde dans les fichiers de configuration. Gère les opérations de sauvegarde et de restauration.
+voyage dans le temps : intégration facile dans le centre de notifications OSX
+FAIRE
+Vérifiez la source et le système de fichiers de destination ( df -T /dest). Si l'un d'eux est FAT, utilisez le paramètre --modify-window rsync (voir man rsync) avec une valeur de 1 ou 2
+Ajouter des --whole-filearguments sur Windows? Voir http://superuser.com/a/905415/73619
+Changements mineurs (voir les commentaires TODO dans la source).
+LICENCE
+La licence MIT (MIT)
+
+Copyright (c) 2013-2018 Laurent Cozic
+
+La permission est par la présente accordée à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le «Logiciel»), de traiter le Logiciel sans restriction, y compris sans limitation les droits d'utilisation, de copie, de modification, de fusion , publier, distribuer, sous-licencier et / ou vendre des copies du Logiciel et permettre aux personnes auxquelles le Logiciel est fourni de le faire, sous réserve des conditions suivantes:
+
+/\/
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+"Lisez-moi.txt" [New] 114L, 8988C written                                                                         7,1           Top
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+                                                                                                                   7,1           Top
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+
+  rsync_tmbackup.sh -p 2222 /home user@example.com:/mnt/backup_drive
+                                                                                                                                    7,1   Top
+ vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une connaissance de la ligne de commande, et non GUI spécifique est fourni pour restaurer les fichiers. Au lieu de cela, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+git clone https://github.com/laurent22/rsync-time-backup
+Usage
+Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+Options
+ -p, --port           SSH port.
+ -h, --help           Display this help message.
+ --rsync-get-flags    Display the default rsync flags that are used for backup.
+ --rsync-set-flags    Set the rsync flags that are going to be used for backup.
+ --log-dir            Set the log file directory. If this flag is set, generated files will
+                      not be managed by the script - in particular they will not be
+                      automatically deleted.
+ --strategy           Set the expiration strategy. Default: "1:1 30:7 365:30" means after one
+                      day, keep one backup per day. After 30 days, keep one backup every 7 days.
+                      After 365 days keep one backup every 30 days.
+ --no-auto-expire     Set option to disable automatically purging old backups when out of space.
+Caractéristiques
+Chaque sauvegarde est dans son propre dossier nommé après l'horodatage en cours. Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+Sauvegarde vers / depuis des destinations distantes via SSH.
+
+Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont liés à la sauvegarde précédente, donc prenez très peu d'espace supplémentaire.
+
+Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+Exclure le fichier - prise en charge de l'exclusion basée sur un modèle via le --exclude-fromparamètre rsync.
+
+Purge automatique des anciennes sauvegardes - dans les 24 heures, toutes les sauvegardes sont conservées. En un mois, la sauvegarde la plus récente pour chaque jour est conservée. Pour toutes les sauvegardes précédentes, le plus récent de chaque mois est conservé.
+
+"dernier" lien symbolique qui pointe vers la dernière sauvegarde réussie.
+
+Exemples
+Sauvegarder le dossier de départ sur backup_drive
+
+  rsync_tmbackup.sh /home /mnt/backup_drive
+Sauvegarde avec liste d'exclusion:
+
+  rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+Sauvegarde sur disque SSH sur le port 2222:
+
+  rsync_tmbackup.sh -p 2222 /home user@example.com:/mnt/backup_drive
+                                                                                                                                   7,1  Top
+Si une nouvelle opération de sauvegarde est démarrée alors qu'une autre est toujours active (c'est-à-dire qu'elle n'est pas encore terminée),
+-rw-r--r--     1 dhenin  staff   252600409 16 jul 14:07 Chapeau melon et bottes de cuir - ARTE-qxT1paV4sxM.mp4
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une habitude de la ligne de commande, et ne dispose pas d'une interface graphique  pour restaurer les fichiers. En revanche, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+
+        git clone https://github.com/laurent22/rsync-time-backup
+
+Usage
+
+        Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+        Options
+         -p, --port           Port SSH.
+         -h, --help           Affiche ce message.
+         --rsync-get-flags    Affiche les flags rsync utilisés pour la sauvegarde.
+         --rsync-set-flags    Positionne les flags rsync qui seront utilisés pour la sauvegarde.
+         --log-dir            Définit le répertoire des logs.
+                              S'il est défini, les fichiers que le répertoire contient seront ignorés par la sauvegarde
+                              et ne seront, notamment, pas supprimés.
+         --strategy           Stratégie de sauvegard. Par défaut : "1:1 30:7 365:30" signifie
+                              qu'après un jour, effectue une sauvegarde par jour,
+                              après 30 jours, effectue une sauvegarde par semaine,
+                              après un an, effectue une sauvegarde par mois.
+         --no-auto-expire     Cette option interdit la suppression automatique des fichiers anciens
+                              en cas d'espace de sauvegarde insuffisant.
+
+Caractéristiques
+
+* Chaque sauvegarde est dans son propre dossier après l'horodatage en cours.
+  Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+* Sauvegarde vers/depuis des destinations distantes via SSH.
+
+* Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont linkés à la sauvegarde précédente,
+  et donc prennent très peu d'espace supplémentaire.
+
+* Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+* Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+* Exclusion de fichier conforme à l'option  --exclude-from de  rsync.
+
+* Purge automatique des anciennes sauvegardes, dans les 24 heures, toutes les sauvegardes sont conservées.
+  Dans le même mois, la sauvegarde la plus récente pour chaque jour est conservée.
+  Pour toutes les sauvegardes précédentes, le plus récentie de chaque mois est conservée.
+
+* Le lien symbolique "latest"  pointe vers la dernière sauvegarde réussie.
+
+"Lisez-moi.txt" 145L, 8667C                                                                                                  1,1           Top
+        (https://sites.google.com/site/rsync2u/home/rsync-tutorial/the-exclude-from-option)
+-rw-r--r--     1 dhenin  staff   195634611 17 jul 14:12 Chapeau melon et bottes de cuir - ARTE-_pdnmIWrwy0.mp4
+-rw-r--r--@    1 dhenin  staff   243896365 17 jul 15:23 Chapeau melon et bottes de cuir - ARTE-MxKGyitRGNA.mp4
+-rw-r--r--@    1 dhenin  staff      158856 18 jul 06:21 thebrig-alcatraz.zip
+-rw-r--r--@    1 dhenin  staff        1255 18 jul 12:52 1043499-1e7db2833dd6da98a158d7e24bf5c6c028523cbc.zip
+Sauvegarde de temps Rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une habitude de la ligne de commande, et ne dispose pas d'une interface graphique  pour restaurer les fichiers. En revanche, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+
+        git clone https://github.com/laurent22/rsync-time-backup
+
+Usage
+
+        Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+        Options
+         -p, --port           Port SSH.
+         -h, --help           Affiche ce message.
+         --rsync-get-flags    Affiche les flags rsync utilisés pour la sauvegarde.
+         --rsync-set-flags    Positionne les flags rsync qui seront utilisés pour la sauvegarde.
+         --log-dir            Définit le répertoire des logs.
+                              S'il est défini, les fichiers que le répertoire contient seront ignorés par la sauvegarde
+                              et ne seront, notamment, pas supprimés.
+         --strategy           Stratégie de sauvegard. Par défaut : "1:1 30:7 365:30" signifie
+                              qu'après un jour, effectue une sauvegarde par jour,
+                              après 30 jours, effectue une sauvegarde par semaine,
+                              après un an, effectue une sauvegarde par mois.
+         --no-auto-expire     Cette option interdit la suppression automatique des fichiers anciens
+                              en cas d'espace de sauvegarde insuffisant.
+
+Caractéristiques
+
+* Chaque sauvegarde est dans son propre dossier après l'horodatage en cours.
+  Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+* Sauvegarde vers/depuis des destinations distantes via SSH.
+
+* Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont linkés à la sauvegarde précédente,
+  et donc prennent très peu d'espace supplémentaire.
+
+* Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+* Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+* Exclusion de fichier conforme à l'option  --exclude-from de  rsync.
+
+* Purge automatique des anciennes sauvegardes, dans les 24 heures, toutes les sauvegardes sont conservées.
+  Dans le même mois, la sauvegarde la plus récente pour chaque jour est conservée.
+  Pour toutes les sauvegardes précédentes, le plus récentie de chaque mois est conservée.
+
+* Le lien symbolique "latest"  pointe vers la dernière sauvegarde réussie.
+
+"Lisez-moi.txt" 148L, 8834C                                                                                                  53,0-1        Top
+
+Exemples
+
+* Sauvegarder le dossier de départ sur backup_drive
+
+        rsync_tmbackup.sh /home /mnt/backup_drive
+
+* Sauvegarde avec liste d'exclusion:
+
+        rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+
+
+* Sauvegarde sur une machine distante avec SSH sur le port 2222 :
+
+        rsync_tmbackup.sh -p 2222 /home user@example.com:/mnt/backup_drive
+
+
+* Sauvegarde à partir d'une machine distante avec SSH
+
+        rsync_tmbackup.sh user@example.com:/home /mnt/backup_drive
+
+* Pour imiter le comportement de Time Machine, un script cron peut être configuré pour effectuer une sauvegarde à intervalles réguliers.
+  Par exemple, l'instruction cron suivante vérifie si le lecteur "/mnt/backup" est actuellement connecté et, si c'est le cas,
+  lance la sauvegarde. Il vérifie toutes les heures.
+
+        0 */1 * * * if [[ -d /mnt/backup ]]; then rsync_tmbackup.sh /home /mnt/backup; fi
+
+
+Logique d'expiration de sauvegarde
+
+Les jeux de sauvegarde sont automatiquement supprimés conformément à une stratégie d'expiration simple définie avec l'option --strategy.
+Cette stratégie est une série d'intervalles de temps avec chaque élément étant défini selon x:y, ce qui signifie "après x jours, conserver une sauvegarde tous les jours y". La stratégie par défaut est 1:1 30:7 365:30, ce qui signifie:
+
+        * Après 1 jour, gardez une sauvegarde tous les 1 jours ( 1:1 ).
+        * Après 30 jours, conservez une sauvegarde tous les 7 jours ( 30:7 ).
+        * Après 365 jours, conservez une sauvegarde tous les 30 jours ( 365:30 ).
+
+Avant le premier intervalle (c'est-à-dire par défaut dans les premières 24 heures), il est implicite que tous les jeux de sauvegarde sont conservés. En outre, si le répertoire de destination de sauvegarde est plein, les sauvegardes les plus anciennes sont supprimées jusqu'à ce qu'il y ait suffisamment d'espace disponible.
+
+Fichier d'exclusion
+
+Un fichier d'exclusion facultatif peut être fourni en tant que troisième paramètre.
+Il est compatible avec le paramètre --exclude-from de rsync. Voir ce tutoriel
+        (https://sites.google.com/site/rsync2u/home/rsync-tutorial/the-exclude-from-option)
+ pour plus d'informations.
+
+Verrou (lock) de sécutité
+
+Le script est conçu pour qu'une seule opération de sauvegarde puisse être active pour un répertoire donné.
+Si une nouvelle opération de sauvegarde est démarrée alors qu'une autre est toujours active (c'est-à-dire qu'elle n'est pas encore terminée),
+la nouvelle sera automatiquement interrompue. ( Merci à flock ).
+
+Options Rsync
+
+Pour afficher les options utilisées pour la sauvegarde, ./rsync_tmbackup.sh --rsync-get-flags.
+Il est également possible d'ajouter ou de supprimer des options en utilisant l'option --rsync-set-flags.
+Par exemple, pour exclure les autorisations et les groupes de sauvegarde:
+                                                                             
+
+        rsync_tmbackup --rsync-set-flags "--numeric-ids --links --hard-links \
+        --one-file-system --archive --no-perms --no-groups --itemize-changes" /src /dest
+
+Préservation des sauvegardes les plus anciennes :
+
+Une option permettant de tester le comportement par défaut pour purger les anciennes sauvegardes en cas d'espace insuffisant.
+Cette option est définie avec le drapeau --no-auto-expire.
+
+Restauration
+
+Le script crée une sauvegarde dans un répertoire dentique afin que vous puissiez simplement copier les fichiers dans le répertoire d'origine.
+Vous pourriez le faire avec une commande comme
+
+        rsync -aP /path/to/last/backup/ /path/to/restore/to/
+
+Pensez à utiliser l'option  --dry-run pour vérifier ce qui va exactement être copié.
+Utilisez l'option --delete si vous souhaitez également supprimer les fichiers présents dans la destination mais pas dans la sauvegarde
+(vous devez évidemment prendre des précautions supplémentaires lors de l'utilisation de cette option).
+
+Extensions
+rtb-wrapper: Allows creating backup profiles in config files. Handles both backup and restore operations.
+time-travel: Smooth integration into OSX Notification Center
+TODO
+Check source and destination file-system (df -T /dest). If one of them is FAT, use the --modify-window rsync parameter (see man rsync) with a value of 1 or 2
+Add --whole-file arguments on Windows? See http://superuser.com/a/905415/73619
+Minor changes (see TODO comments in the source).
+LICENSE
+The MIT License (MIT)
+
+Copyright (c) 2013-2018 Laurent Cozic
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                                                                           53,0-1        57%                                                                                                1,1           Top
