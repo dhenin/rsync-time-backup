@@ -1,0 +1,148 @@
+Sauvegarde type TimeMachine avec rsync
+
+Ce script effectue une sauvegarde de type Time Machine à l'aide de rsync. Il crée des sauvegardes incrémentielles de fichiers et de répertoires vers la destination de votre choix. Les sauvegardes sont structurées de manière à faciliter la récupération de n'importe quel fichier à tout moment.
+
+Cela fonctionne sur Linux, macOS et Windows (via WSL ou Cygwin). Le principal avantage par rapport à Time Machine est la flexibilité, car il peut sauvegarder de/vers n'importe quel système de fichiers et fonctionne sur n'importe quelle plate-forme. Vous pouvez également sauvegarder, par exemple, sur un lecteur Truecrypt sans aucun problème.
+
+Sur macOS, il présente quelques inconvénients par rapport à Time Machine - en particulier il ne démarre pas automatiquement lorsque le disque de sauvegarde est branché (bien qu'il puisse être réalisé en utilisant un agent de lancement), il nécessite une habitude de la ligne de commande, et ne dispose pas d'une interface graphique  pour restaurer les fichiers. En revanche, les fichiers peuvent être restaurés en utilisant n'importe quel explorateur de fichiers, y compris le Finder, ou la ligne de commande.
+
+Installation
+
+	git clone https://github.com/laurent22/rsync-time-backup
+
+Usage
+
+	Usage: rsync_tmbackup.sh [OPTION]... <[USER@HOST:]SOURCE> <[USER@HOST:]DESTINATION> [exclude-pattern-file]
+
+	Options
+	 -p, --port           Port SSH.
+	 -h, --help           Affiche ce message.
+	 --rsync-get-flags    Affiche les flags rsync utilisés pour la sauvegarde.
+	 --rsync-set-flags    Positionne les flags rsync qui seront utilisés pour la sauvegarde.
+	 --log-dir            Définit le répertoire des logs.
+                              S'il est défini, les fichiers que le répertoire contient seront ignorés par la sauvegarde
+                              et ne seront, notamment, pas supprimés. 
+	 --strategy           Stratégie de sauvegard. Par défaut : "1:1 30:7 365:30" signifie 
+			      qu'après un jour, effectue une sauvegarde par jour, 
+                              après 30 jours, effectue une sauvegarde par semaine, 
+			      après un an, effectue une sauvegarde par mois. 
+	 --no-auto-expire     Cette option interdit la suppression automatique des fichiers anciens
+                              en cas d'espace de sauvegarde insuffisant. 
+
+Caractéristiques
+
+* Chaque sauvegarde est dans son propre dossier après l'horodatage en cours.
+  Les fichiers peuvent être copiés et restaurés directement, sans outil intermédiaire.
+
+* Sauvegarde vers/depuis des destinations distantes via SSH.
+
+* Les fichiers qui n'ont pas changé d'une sauvegarde à l'autre sont linkés à la sauvegarde précédente,
+  et donc prennent très peu d'espace supplémentaire.
+
+* Contrôle de sécurité - la sauvegarde n'aura lieu que si la destination a été explicitement marquée comme destination de sauvegarde.
+
+* Fonction de reprise - si une sauvegarde a échoué ou a été interrompue, l'outil reprendra à la prochaine sauvegarde.
+
+* Exclusion de fichier conforme à l'option  --exclude-from de  rsync.
+
+* Purge automatique des anciennes sauvegardes, dans les 24 heures, toutes les sauvegardes sont conservées.
+  Dans le même mois, la sauvegarde la plus récente pour chaque jour est conservée.
+  Pour toutes les sauvegardes précédentes, le plus récentie de chaque mois est conservée.
+
+* Le lien symbolique "latest"  pointe vers la dernière sauvegarde réussie.
+
+Exemples
+
+* Sauvegarder le dossier de départ sur backup_drive
+
+	rsync_tmbackup.sh /home /mnt/backup_drive  
+
+* Sauvegarde avec liste d'exclusion:
+
+	rsync_tmbackup.sh /home /mnt/backup_drive excluded_patterns.txt
+ 
+
+* Sauvegarde sur une machine distante avec SSH sur le port 2222 :
+
+	rsync_tmbackup.sh -p 2222 /home user@example.com:/mnt/backup_drive
+
+
+* Sauvegarde à partir d'une machine distante avec SSH
+
+	rsync_tmbackup.sh user@example.com:/home /mnt/backup_drive
+
+* Pour imiter le comportement de Time Machine, un script cron peut être configuré pour effectuer une sauvegarde à intervalles réguliers.
+  Par exemple, l'instruction cron suivante vérifie si le lecteur "/mnt/backup" est actuellement connecté et, si c'est le cas,
+  lance la sauvegarde. Il vérifie toutes les heures.
+
+	0 */1 * * * if [[ -d /mnt/backup ]]; then rsync_tmbackup.sh /home /mnt/backup; fi
+
+
+Logique d'expiration de sauvegarde
+
+Les jeux de sauvegarde sont automatiquement supprimés conformément à une stratégie d'expiration simple définie avec l'option --strategy.
+Cette stratégie est une série d'intervalles de temps avec chaque élément étant défini selon x:y, ce qui signifie "après x jours, conserver une sauvegarde tous les jours y". La stratégie par défaut est 1:1 30:7 365:30, ce qui signifie:
+
+	* Après 1 jour, gardez une sauvegarde tous les 1 jours ( 1:1 ).
+	* Après 30 jours, conservez une sauvegarde tous les 7 jours ( 30:7 ).
+	* Après 365 jours, conservez une sauvegarde tous les 30 jours ( 365:30 ).
+
+Avant le premier intervalle (c'est-à-dire par défaut dans les premières 24 heures), il est implicite que tous les jeux de sauvegarde sont conservés. En outre, si le répertoire de destination de sauvegarde est plein, les sauvegardes les plus anciennes sont supprimées jusqu'à ce qu'il y ait suffisamment d'espace disponible.
+
+Fichier d'exclusion
+
+Un fichier d'exclusion facultatif peut être fourni en tant que troisième paramètre.
+Il est compatible avec le paramètre --exclude-from de rsync. Voir ce tutoriel
+	(https://sites.google.com/site/rsync2u/home/rsync-tutorial/the-exclude-from-option)
+ pour plus d'informations.
+
+Verrou (lock) de sécutité
+
+Le script est conçu pour qu'une seule opération de sauvegarde puisse être active pour un répertoire donné.
+Si une nouvelle opération de sauvegarde est démarrée alors qu'une autre est toujours active (c'est-à-dire qu'elle n'est pas encore terminée),
+la nouvelle sera automatiquement interrompue. ( Merci à flock ). 
+
+Options Rsync
+
+Pour afficher les options utilisées pour la sauvegarde, ./rsync_tmbackup.sh --rsync-get-flags.
+Il est également possible d'ajouter ou de supprimer des options en utilisant l'option --rsync-set-flags.
+Par exemple, pour exclure les autorisations et les groupes de sauvegarde:
+
+	rsync_tmbackup --rsync-set-flags "--numeric-ids --links --hard-links \
+	--one-file-system --archive --no-perms --no-groups --itemize-changes" /src /dest
+
+Préservation des sauvegardes les plus anciennes : 
+
+Une option permettant de tester le comportement par défaut pour purger les anciennes sauvegardes en cas d'espace insuffisant.
+Cette option est définie avec le drapeau --no-auto-expire.
+
+Restauration 
+
+Le script crée une sauvegarde dans un répertoire dentique afin que vous puissiez simplement copier les fichiers dans le répertoire d'origine.
+Vous pourriez le faire avec une commande comme 
+
+	rsync -aP /path/to/last/backup/ /path/to/restore/to/
+
+Pensez à utiliser l'option  --dry-run pour vérifier ce qui va exactement être copié.
+Utilisez l'option --delete si vous souhaitez également supprimer les fichiers présents dans la destination mais pas dans la sauvegarde
+(vous devez évidemment prendre des précautions supplémentaires lors de l'utilisation de cette option).
+
+Extensions
+rtb-wrapper: Allows creating backup profiles in config files. Handles both backup and restore operations.
+time-travel: Smooth integration into OSX Notification Center
+TODO
+Check source and destination file-system (df -T /dest). If one of them is FAT, use the --modify-window rsync parameter (see man rsync) with a value of 1 or 2
+Add --whole-file arguments on Windows? See http://superuser.com/a/905415/73619
+Minor changes (see TODO comments in the source).
+LICENSE
+The MIT License (MIT)
+
+Copyright (c) 2013-2018 Laurent Cozic
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
